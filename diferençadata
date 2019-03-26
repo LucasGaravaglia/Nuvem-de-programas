@@ -3,7 +3,7 @@
 #include <string.h>
 #include <stdlib.h>
 
-#define DATA_BASE 1900
+
 
 int isanobissexto(int ano){
     return ((ano % 4 == 0) &&
@@ -29,7 +29,7 @@ int isdata(int mes,int ano){
 }
 
 //tranforma a data em dias usando um ano base definido no começo do programa.
-void transformardia(int *diaa,int mes,int ano){
+void transformardia(int *diaa,int mes,int ano, int DATA_BASE){
     int dia = *diaa;
     mes--;
     if(mes == 0) mes = 12;
@@ -43,6 +43,7 @@ void transformardia(int *diaa,int mes,int ano){
 }
 
 int main(){
+    int DATA_BASE = 1600;
     int diaI,mesI,anoI;
     int diaF,mesF,anoF;
     int diaT=0,mesT=1,anoT=DATA_BASE;
@@ -50,11 +51,13 @@ int main(){
 
     printf("Digite sua data de nascimento sendo ela dia mes ano:\n");
     scanf("%d %d %d",&diaI,&mesI,&anoI);
+    if(anoI > 2000) DATA_BASE = DATA_BASE +(2000 - anoI);
+    else if(anoI < 2000) DATA_BASE = DATA_BASE - (anoI - 2000);
     printf("\nDigite sua data de hoje sendo ela dia mes ano:\n");
     scanf("%d %d %d",&diaF,&mesF,&anoF);
-    system("cls");
-    transformardia(&diaI,mesI,anoI);
-    transformardia(&diaF,mesF,anoF);
+    system("clear");
+    transformardia(&diaI,mesI,anoI,DATA_BASE);
+    transformardia(&diaF,mesF,anoF,DATA_BASE);
     diaC=diaF-diaI;
     printf("Dias percorridos : %d\n",diaC);
 
