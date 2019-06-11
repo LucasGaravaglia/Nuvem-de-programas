@@ -1,0 +1,8727 @@
+{
+  "recipeBrowserVersion": "0.7",
+  "lastUpdateTime": 3,
+  "cachedMods": {
+    "ReducedGrinding": "4.34",
+    "PureSpirit": "0.1.1",
+    "Luiafk": "1.0.0.130",
+    "HelpfulHotkeys": "1.5.5",
+    "FKBossHealthBar": "1.3.2",
+    "BossChecklist": "0.2",
+    "Terraria": "0.10.1.5",
+    "SpiritMod": "1.3.4.1",
+    "imkSushisMod": "4.3.1",
+    "WingSlot": "1.6.2",
+    "MaxStackPlus": "21.0",
+    "MagicStorage": "0.4.3.3",
+    "HEROsMod": "0.2.1.2",
+    "VeinMiner": "1.3.0.5"
+  },
+  "lootInfos": {
+    "Terraria\t\t0": [
+      {
+        "mod": "Terraria",
+        "name": "Geleia Azul",
+        "id": 1
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "AcidCrawler"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Chomper"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "GladiatorSpirit"
+      },
+      {
+        "mod": "ReducedGrinding",
+        "name": "ChestSalesman"
+      }
+    ],
+    "Terraria\tCajado da Geleia\t1309": [
+      {
+        "mod": "Terraria",
+        "name": "Geleia Azul",
+        "id": 1
+      },
+      {
+        "mod": "Terraria",
+        "name": "Geleia Mãe",
+        "id": 16
+      },
+      {
+        "mod": "Terraria",
+        "name": "Geleia Luminosa",
+        "id": 138
+      },
+      {
+        "mod": "Terraria",
+        "name": "Lama Tóxica",
+        "id": 141
+      },
+      {
+        "mod": "Terraria",
+        "name": "Geleia de Gelo",
+        "id": 147
+      },
+      {
+        "mod": "Terraria",
+        "name": "Geleia de Gelo com Espinhos",
+        "id": 184
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zumbi",
+        "id": 187
+      },
+      {
+        "mod": "Terraria",
+        "name": "Geleia da Selva com Espinhos",
+        "id": 204
+      },
+      {
+        "mod": "Terraria",
+        "name": "Geleia",
+        "id": 302
+      },
+      {
+        "mod": "Terraria",
+        "name": "Geleia",
+        "id": 333
+      },
+      {
+        "mod": "Terraria",
+        "name": "Geleia",
+        "id": 334
+      },
+      {
+        "mod": "Terraria",
+        "name": "Geleia",
+        "id": 335
+      },
+      {
+        "mod": "Terraria",
+        "name": "Geleia",
+        "id": 336
+      },
+      {
+        "mod": "Terraria",
+        "name": "Geleia com Espinhos",
+        "id": 535
+      },
+      {
+        "mod": "Terraria",
+        "name": "Geleia de Areia",
+        "id": 537
+      }
+    ],
+    "Terraria\tGel\t23": [
+      {
+        "mod": "Terraria",
+        "name": "Geleia Azul",
+        "id": 1
+      },
+      {
+        "mod": "Terraria",
+        "name": "Geleia Mãe",
+        "id": 16
+      },
+      {
+        "mod": "Terraria",
+        "name": "Geleia Corrompida",
+        "id": 81
+      },
+      {
+        "mod": "Terraria",
+        "name": "Gastrópode",
+        "id": 122
+      },
+      {
+        "mod": "Terraria",
+        "name": "Geleia Luminosa",
+        "id": 138
+      },
+      {
+        "mod": "Terraria",
+        "name": "Lama Tóxica",
+        "id": 141
+      },
+      {
+        "mod": "Terraria",
+        "name": "Geleia de Gelo",
+        "id": 147
+      },
+      {
+        "mod": "Terraria",
+        "name": "Geleia de Carmim",
+        "id": 183
+      },
+      {
+        "mod": "Terraria",
+        "name": "Geleia de Gelo com Espinhos",
+        "id": 184
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zumbi",
+        "id": 187
+      },
+      {
+        "mod": "Terraria",
+        "name": "Geleia da Selva com Espinhos",
+        "id": 204
+      },
+      {
+        "mod": "Terraria",
+        "name": "Geleia com Guarda-chuva",
+        "id": 225
+      },
+      {
+        "mod": "Terraria",
+        "name": "Geleia do Arco-íris",
+        "id": 244
+      },
+      {
+        "mod": "Terraria",
+        "name": "Geleia",
+        "id": 302
+      },
+      {
+        "mod": "Terraria",
+        "name": "Geleia",
+        "id": 333
+      },
+      {
+        "mod": "Terraria",
+        "name": "Geleia",
+        "id": 334
+      },
+      {
+        "mod": "Terraria",
+        "name": "Geleia",
+        "id": 335
+      },
+      {
+        "mod": "Terraria",
+        "name": "Geleia",
+        "id": 336
+      },
+      {
+        "mod": "Terraria",
+        "name": "Geleia com Espinhos",
+        "id": 535
+      },
+      {
+        "mod": "Terraria",
+        "name": "Geleia de Areia",
+        "id": 537
+      }
+    ],
+    "Terraria\tLente\t38": [
+      {
+        "mod": "Terraria",
+        "name": "Olho Demoníaco",
+        "id": 2
+      },
+      {
+        "mod": "Terraria",
+        "name": "Olho Errante",
+        "id": 133
+      },
+      {
+        "mod": "Terraria",
+        "name": "Olho Demoníaco",
+        "id": 190
+      },
+      {
+        "mod": "Terraria",
+        "name": "Olho Demoníaco",
+        "id": 191
+      },
+      {
+        "mod": "Terraria",
+        "name": "Olho Demoníaco",
+        "id": 192
+      },
+      {
+        "mod": "Terraria",
+        "name": "Olho Demoníaco",
+        "id": 193
+      },
+      {
+        "mod": "Terraria",
+        "name": "Olho Demoníaco",
+        "id": 194
+      },
+      {
+        "mod": "Terraria",
+        "name": "Olho Demoníaco",
+        "id": 317
+      },
+      {
+        "mod": "Terraria",
+        "name": "Olho Demoníaco",
+        "id": 318
+      }
+    ],
+    "Terraria\tAlgema\t216": [
+      {
+        "mod": "Terraria",
+        "name": "Zumbi",
+        "id": 3
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zumbi",
+        "id": 132
+      },
+      {
+        "mod": "Terraria",
+        "name": "Esquimó Zumbi",
+        "id": 161
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zumbi",
+        "id": 186
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zumbi",
+        "id": 187
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zumbi",
+        "id": 188
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zumbi",
+        "id": 189
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zumbi",
+        "id": 200
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zumbi com Capa de Chuva",
+        "id": 223
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zumbi",
+        "id": 319
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zumbi",
+        "id": 320
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zumbi",
+        "id": 321
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zumbi",
+        "id": 331
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zumbi",
+        "id": 332
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zumbi",
+        "id": 430
+      },
+      {
+        "mod": "Terraria",
+        "name": "Esquimó Zumbi",
+        "id": 431
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zumbi",
+        "id": 432
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zumbi",
+        "id": 433
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zumbi",
+        "id": 434
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zumbi",
+        "id": 435
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zumbi",
+        "id": 436
+      }
+    ],
+    "Terraria\tBraço de Zumbi\t1304": [
+      {
+        "mod": "Terraria",
+        "name": "Zumbi",
+        "id": 3
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zumbi",
+        "id": 132
+      },
+      {
+        "mod": "Terraria",
+        "name": "Esquimó Zumbi",
+        "id": 161
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zumbi",
+        "id": 186
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zumbi",
+        "id": 187
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zumbi",
+        "id": 188
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zumbi",
+        "id": 189
+      },
+      {
+        "mod": "Terraria",
+        "name": "Olho Demoníaco",
+        "id": 190
+      },
+      {
+        "mod": "Terraria",
+        "name": "Olho Demoníaco",
+        "id": 191
+      },
+      {
+        "mod": "Terraria",
+        "name": "Olho Demoníaco",
+        "id": 192
+      },
+      {
+        "mod": "Terraria",
+        "name": "Olho Demoníaco",
+        "id": 193
+      },
+      {
+        "mod": "Terraria",
+        "name": "Olho Demoníaco",
+        "id": 194
+      },
+      {
+        "mod": "Terraria",
+        "name": "Garota Perdida",
+        "id": 195
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ninfa",
+        "id": 196
+      },
+      {
+        "mod": "Terraria",
+        "name": "Viking Armado",
+        "id": 197
+      },
+      {
+        "mod": "Terraria",
+        "name": "Lagharto",
+        "id": 198
+      },
+      {
+        "mod": "Terraria",
+        "name": "Lagharto",
+        "id": 199
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zumbi",
+        "id": 200
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zumbi com Capa de Chuva",
+        "id": 223
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zumbi",
+        "id": 319
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zumbi",
+        "id": 320
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zumbi",
+        "id": 321
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zumbi",
+        "id": 331
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zumbi",
+        "id": 332
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zumbi",
+        "id": 430
+      },
+      {
+        "mod": "Terraria",
+        "name": "Esquimó Zumbi",
+        "id": 431
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zumbi",
+        "id": 432
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zumbi",
+        "id": 433
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zumbi",
+        "id": 434
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zumbi",
+        "id": 435
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zumbi",
+        "id": 436
+      }
+    ],
+    "Terraria\tMáscara do Olho de Cthulhu\t2112": [
+      {
+        "mod": "Terraria",
+        "name": "Olho de Cthulhu",
+        "id": 4
+      }
+    ],
+    "Terraria\tBinóculos\t1299": [
+      {
+        "mod": "Terraria",
+        "name": "Olho de Cthulhu",
+        "id": 4
+      }
+    ],
+    "Terraria\tFlecha Profana\t47": [
+      {
+        "mod": "Terraria",
+        "name": "Olho de Cthulhu",
+        "id": 4
+      }
+    ],
+    "Terraria\tMinério de Demonita\t56": [
+      {
+        "mod": "Terraria",
+        "name": "Olho de Cthulhu",
+        "id": 4
+      },
+      {
+        "mod": "Terraria",
+        "name": "Devorador de Mundos",
+        "id": 13
+      },
+      {
+        "mod": "Terraria",
+        "name": "Devorador de Mundos",
+        "id": 14
+      },
+      {
+        "mod": "Terraria",
+        "name": "Devorador de Mundos",
+        "id": 15
+      }
+    ],
+    "Terraria\tSementes Corrompidas\t59": [
+      {
+        "mod": "Terraria",
+        "name": "Olho de Cthulhu",
+        "id": 4
+      }
+    ],
+    "Terraria\tTroféu do Olho de Cthulhu\t1360": [
+      {
+        "mod": "Terraria",
+        "name": "Olho de Cthulhu",
+        "id": 4
+      }
+    ],
+    "Terraria\tPoção de Cura Simples\t28": [
+      {
+        "mod": "Terraria",
+        "name": "Olho de Cthulhu",
+        "id": 4
+      },
+      {
+        "mod": "Terraria",
+        "name": "Esqueletron",
+        "id": 35
+      },
+      {
+        "mod": "Terraria",
+        "name": "Geleia Rei",
+        "id": 50
+      },
+      {
+        "mod": "Terraria",
+        "name": "Cérebro de Cthulhu",
+        "id": 266
+      },
+      {
+        "mod": "Terraria",
+        "name": "Senhor da Lua",
+        "id": 396
+      },
+      {
+        "mod": "Terraria",
+        "name": "Mão do Senhor da Lua",
+        "id": 397
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "AncientFlyer"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "AtlasArmLeft"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "AtlasArmRight"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "BloodGazer"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "InfernonSkull"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "InfernoSkull"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "MoonGazer"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Scarabeus"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "SteamRaiderHead"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "FleshGolem"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "ForestWraith"
+      }
+    ],
+    "Luiafk\tUnlimitedMerchantKiller": [
+      {
+        "mod": "Terraria",
+        "name": "Olho de Cthulhu",
+        "id": 4
+      }
+    ],
+    "Terraria\tElmo das Sombras Antigo\t956": [
+      {
+        "mod": "Terraria",
+        "name": "Devorador de Almas",
+        "id": 6
+      }
+    ],
+    "Terraria\tPedaço Podre\t68": [
+      {
+        "mod": "Terraria",
+        "name": "Devorador de Almas",
+        "id": 6
+      },
+      {
+        "mod": "Terraria",
+        "name": "Devorador",
+        "id": 7
+      },
+      {
+        "mod": "Terraria",
+        "name": "Devorador",
+        "id": 8
+      },
+      {
+        "mod": "Terraria",
+        "name": "Devorador",
+        "id": 9
+      },
+      {
+        "mod": "Terraria",
+        "name": "Corruptor",
+        "id": 94
+      }
+    ],
+    "PureSpirit\tEssenceOfImpurity": [
+      {
+        "mod": "Terraria",
+        "name": "Devorador de Almas",
+        "id": 6
+      },
+      {
+        "mod": "Terraria",
+        "name": "Devorador",
+        "id": 7
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pixie",
+        "id": 75
+      },
+      {
+        "mod": "Terraria",
+        "name": "Múmia das Trevas",
+        "id": 79
+      },
+      {
+        "mod": "Terraria",
+        "name": "Múmia de Luz",
+        "id": 80
+      },
+      {
+        "mod": "Terraria",
+        "name": "Geleia Corrompida",
+        "id": 81
+      },
+      {
+        "mod": "Terraria",
+        "name": "Unicórnio",
+        "id": 86
+      },
+      {
+        "mod": "Terraria",
+        "name": "Corruptor",
+        "id": 94
+      },
+      {
+        "mod": "Terraria",
+        "name": "Alimentador de Mundos",
+        "id": 98
+      },
+      {
+        "mod": "Terraria",
+        "name": "Gastrópode",
+        "id": 122
+      },
+      {
+        "mod": "Terraria",
+        "name": "Crimera",
+        "id": 173
+      },
+      {
+        "mod": "Terraria",
+        "name": "Herpling",
+        "id": 174
+      },
+      {
+        "mod": "Terraria",
+        "name": "Monstro da Face",
+        "id": 181
+      },
+      {
+        "mod": "Terraria",
+        "name": "Geleia de Carmim",
+        "id": 183
+      },
+      {
+        "mod": "Terraria",
+        "name": "Aranha de Sangue",
+        "id": 239
+      },
+      {
+        "mod": "Terraria",
+        "name": "Aranha de Sangue",
+        "id": 240
+      },
+      {
+        "mod": "Terraria",
+        "name": "Água-viva de Sangue",
+        "id": 242
+      },
+      {
+        "mod": "Terraria",
+        "name": "Geleia do Arco-íris",
+        "id": 244
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ghoul Sonhador",
+        "id": 527
+      }
+    ],
+    "Terraria\tPresa de Verme\t69": [
+      {
+        "mod": "Terraria",
+        "name": "Devorador",
+        "id": 7
+      },
+      {
+        "mod": "Terraria",
+        "name": "Devorador",
+        "id": 8
+      },
+      {
+        "mod": "Terraria",
+        "name": "Devorador",
+        "id": 9
+      }
+    ],
+    "Terraria\tAlmofada Engraçadinha\t215": [
+      {
+        "mod": "Terraria",
+        "name": "Verme Gigante",
+        "id": 10
+      },
+      {
+        "mod": "Terraria",
+        "name": "Verme Gigante",
+        "id": 11
+      },
+      {
+        "mod": "Terraria",
+        "name": "Verme Gigante",
+        "id": 12
+      },
+      {
+        "mod": "Terraria",
+        "name": "Cavador",
+        "id": 95
+      },
+      {
+        "mod": "Terraria",
+        "name": "Cavador",
+        "id": 96
+      },
+      {
+        "mod": "Terraria",
+        "name": "Cavador",
+        "id": 97
+      }
+    ],
+    "Terraria\tPlaca das Sombras\t86": [
+      {
+        "mod": "Terraria",
+        "name": "Devorador de Mundos",
+        "id": 13
+      },
+      {
+        "mod": "Terraria",
+        "name": "Devorador de Mundos",
+        "id": 14
+      },
+      {
+        "mod": "Terraria",
+        "name": "Devorador de Mundos",
+        "id": 15
+      }
+    ],
+    "Terraria\tBússola\t393": [
+      {
+        "mod": "Terraria",
+        "name": "Geleia Mãe",
+        "id": 16
+      },
+      {
+        "mod": "Terraria",
+        "name": "Piranha",
+        "id": 58
+      },
+      {
+        "mod": "Terraria",
+        "name": "Viking Zumbi",
+        "id": 167
+      },
+      {
+        "mod": "Terraria",
+        "name": "Flinx de Neve",
+        "id": 185
+      },
+      {
+        "mod": "Terraria",
+        "name": "Viking Armado",
+        "id": 197
+      },
+      {
+        "mod": "Terraria",
+        "name": "Caranguejo-Pai",
+        "id": 494
+      },
+      {
+        "mod": "Terraria",
+        "name": "Caranguejo-Pai",
+        "id": 495
+      },
+      {
+        "mod": "Terraria",
+        "name": "Shelly Gigante",
+        "id": 496
+      },
+      {
+        "mod": "Terraria",
+        "name": "Shelly Gigante",
+        "id": 497
+      },
+      {
+        "mod": "Terraria",
+        "name": "Salamandra",
+        "id": 498
+      },
+      {
+        "mod": "Terraria",
+        "name": "Salamandra",
+        "id": 499
+      },
+      {
+        "mod": "Terraria",
+        "name": "Salamandra",
+        "id": 500
+      },
+      {
+        "mod": "Terraria",
+        "name": "Salamandra",
+        "id": 501
+      },
+      {
+        "mod": "Terraria",
+        "name": "Salamandra",
+        "id": 502
+      },
+      {
+        "mod": "Terraria",
+        "name": "Salamandra",
+        "id": 503
+      },
+      {
+        "mod": "Terraria",
+        "name": "Salamandra",
+        "id": 504
+      },
+      {
+        "mod": "Terraria",
+        "name": "Salamandra",
+        "id": 505
+      },
+      {
+        "mod": "Terraria",
+        "name": "Salamandra",
+        "id": 506
+      }
+    ],
+    "Terraria\tElmo de Ferro Antigo\t954": [
+      {
+        "mod": "Terraria",
+        "name": "Esqueleto",
+        "id": 21
+      },
+      {
+        "mod": "Terraria",
+        "name": "Esqueleto",
+        "id": 201
+      },
+      {
+        "mod": "Terraria",
+        "name": "Esqueleto",
+        "id": 202
+      },
+      {
+        "mod": "Terraria",
+        "name": "Esqueleto",
+        "id": 203
+      },
+      {
+        "mod": "Terraria",
+        "name": "Esqueleto",
+        "id": 322
+      },
+      {
+        "mod": "Terraria",
+        "name": "Esqueleto",
+        "id": 323
+      },
+      {
+        "mod": "Terraria",
+        "name": "Esqueleto",
+        "id": 324
+      },
+      {
+        "mod": "Terraria",
+        "name": "Esqueleto",
+        "id": 449
+      },
+      {
+        "mod": "Terraria",
+        "name": "Esqueleto",
+        "id": 450
+      },
+      {
+        "mod": "Terraria",
+        "name": "Esqueleto",
+        "id": 451
+      },
+      {
+        "mod": "Terraria",
+        "name": "Esqueleto",
+        "id": 452
+      }
+    ],
+    "Terraria\tGancho\t118": [
+      {
+        "mod": "Terraria",
+        "name": "Esqueleto",
+        "id": 21
+      },
+      {
+        "mod": "Terraria",
+        "name": "Minerador Zumbi",
+        "id": 44
+      },
+      {
+        "mod": "Terraria",
+        "name": "Piranha",
+        "id": 58
+      },
+      {
+        "mod": "Terraria",
+        "name": "Viking Zumbi",
+        "id": 167
+      },
+      {
+        "mod": "Terraria",
+        "name": "Esqueleto",
+        "id": 201
+      },
+      {
+        "mod": "Terraria",
+        "name": "Esqueleto",
+        "id": 202
+      },
+      {
+        "mod": "Terraria",
+        "name": "Esqueleto",
+        "id": 203
+      },
+      {
+        "mod": "Terraria",
+        "name": "Esqueleto",
+        "id": 322
+      },
+      {
+        "mod": "Terraria",
+        "name": "Esqueleto",
+        "id": 323
+      },
+      {
+        "mod": "Terraria",
+        "name": "Esqueleto",
+        "id": 324
+      },
+      {
+        "mod": "Terraria",
+        "name": "Esqueleto",
+        "id": 449
+      },
+      {
+        "mod": "Terraria",
+        "name": "Esqueleto",
+        "id": 450
+      },
+      {
+        "mod": "Terraria",
+        "name": "Esqueleto",
+        "id": 451
+      },
+      {
+        "mod": "Terraria",
+        "name": "Esqueleto",
+        "id": 452
+      },
+      {
+        "mod": "Terraria",
+        "name": "Hoplite",
+        "id": 481
+      }
+    ],
+    "Terraria\tCaveira\t1274": [
+      {
+        "mod": "Terraria",
+        "name": "Esqueleto",
+        "id": 21
+      },
+      {
+        "mod": "Terraria",
+        "name": "Esqueleto",
+        "id": 201
+      },
+      {
+        "mod": "Terraria",
+        "name": "Esqueleto",
+        "id": 202
+      },
+      {
+        "mod": "Terraria",
+        "name": "Esqueleto",
+        "id": 203
+      },
+      {
+        "mod": "Terraria",
+        "name": "Esqueleto",
+        "id": 322
+      },
+      {
+        "mod": "Terraria",
+        "name": "Esqueleto",
+        "id": 323
+      },
+      {
+        "mod": "Terraria",
+        "name": "Esqueleto",
+        "id": 324
+      },
+      {
+        "mod": "Terraria",
+        "name": "Esqueleto",
+        "id": 449
+      },
+      {
+        "mod": "Terraria",
+        "name": "Esqueleto",
+        "id": 450
+      },
+      {
+        "mod": "Terraria",
+        "name": "Esqueleto",
+        "id": 451
+      },
+      {
+        "mod": "Terraria",
+        "name": "Esqueleto",
+        "id": 452
+      }
+    ],
+    "Terraria\tEspada de Osso\t1166": [
+      {
+        "mod": "Terraria",
+        "name": "Esqueleto",
+        "id": 21
+      },
+      {
+        "mod": "Terraria",
+        "name": "Esqueleto",
+        "id": 201
+      },
+      {
+        "mod": "Terraria",
+        "name": "Esqueleto",
+        "id": 202
+      },
+      {
+        "mod": "Terraria",
+        "name": "Esqueleto",
+        "id": 203
+      },
+      {
+        "mod": "Terraria",
+        "name": "Esqueleto",
+        "id": 322
+      },
+      {
+        "mod": "Terraria",
+        "name": "Esqueleto",
+        "id": 323
+      },
+      {
+        "mod": "Terraria",
+        "name": "Esqueleto",
+        "id": 324
+      },
+      {
+        "mod": "Terraria",
+        "name": "Esqueleto",
+        "id": 449
+      },
+      {
+        "mod": "Terraria",
+        "name": "Esqueleto",
+        "id": 450
+      },
+      {
+        "mod": "Terraria",
+        "name": "Esqueleto",
+        "id": 451
+      },
+      {
+        "mod": "Terraria",
+        "name": "Esqueleto",
+        "id": 452
+      }
+    ],
+    "Terraria\tElmo de Ouro Antigo\t955": [
+      {
+        "mod": "Terraria",
+        "name": "Esqueleto",
+        "id": 21
+      },
+      {
+        "mod": "Terraria",
+        "name": "Esqueleto",
+        "id": 201
+      },
+      {
+        "mod": "Terraria",
+        "name": "Esqueleto",
+        "id": 202
+      },
+      {
+        "mod": "Terraria",
+        "name": "Esqueleto",
+        "id": 203
+      },
+      {
+        "mod": "Terraria",
+        "name": "Esqueleto",
+        "id": 322
+      },
+      {
+        "mod": "Terraria",
+        "name": "Esqueleto",
+        "id": 323
+      },
+      {
+        "mod": "Terraria",
+        "name": "Esqueleto",
+        "id": 324
+      },
+      {
+        "mod": "Terraria",
+        "name": "Esqueleto",
+        "id": 449
+      },
+      {
+        "mod": "Terraria",
+        "name": "Esqueleto",
+        "id": 450
+      },
+      {
+        "mod": "Terraria",
+        "name": "Esqueleto",
+        "id": 451
+      },
+      {
+        "mod": "Terraria",
+        "name": "Esqueleto",
+        "id": 452
+      }
+    ],
+    "Terraria\tMeteorito\t116": [
+      {
+        "mod": "Terraria",
+        "name": "Cabeça de Meteoro",
+        "id": 23
+      }
+    ],
+    "Terraria\tRosa de Obsidiana\t1323": [
+      {
+        "mod": "Terraria",
+        "name": "Demônio de Fogo",
+        "id": 24
+      }
+    ],
+    "Terraria\tChapéu de Encanador\t244": [
+      {
+        "mod": "Terraria",
+        "name": "Demônio de Fogo",
+        "id": 24
+      }
+    ],
+    "Terraria\tArpão\t160": [
+      {
+        "mod": "Terraria",
+        "name": "Peão Goblin",
+        "id": 26
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ladrão Goblin",
+        "id": 27
+      },
+      {
+        "mod": "Terraria",
+        "name": "Guerreiro Goblin",
+        "id": 28
+      },
+      {
+        "mod": "Terraria",
+        "name": "Feiticeiro Goblin",
+        "id": 29
+      },
+      {
+        "mod": "Terraria",
+        "name": "Arqueiro Goblin",
+        "id": 111
+      }
+    ],
+    "Terraria\tBola com Espinhos\t161": [
+      {
+        "mod": "Terraria",
+        "name": "Peão Goblin",
+        "id": 26
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ladrão Goblin",
+        "id": 27
+      },
+      {
+        "mod": "Terraria",
+        "name": "Guerreiro Goblin",
+        "id": 28
+      },
+      {
+        "mod": "Terraria",
+        "name": "Feiticeiro Goblin",
+        "id": 29
+      },
+      {
+        "mod": "Terraria",
+        "name": "Arqueiro Goblin",
+        "id": 111
+      }
+    ],
+    "Terraria\tElmo Necrosado Antigo\t959": [
+      {
+        "mod": "Terraria",
+        "name": "Ossos Furiosos",
+        "id": 31
+      },
+      {
+        "mod": "Terraria",
+        "name": "Mago das Trevas",
+        "id": 32
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ossos Furiosos",
+        "id": 294
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ossos Furiosos",
+        "id": 295
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ossos Furiosos",
+        "id": 296
+      }
+    ],
+    "Terraria\tBoneco de Vodu do Alfaiate\t1307": [
+      {
+        "mod": "Terraria",
+        "name": "Ossos Furiosos",
+        "id": 31
+      },
+      {
+        "mod": "Terraria",
+        "name": "Mago das Trevas",
+        "id": 32
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ossos Furiosos",
+        "id": 294
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ossos Furiosos",
+        "id": 295
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ossos Furiosos",
+        "id": 296
+      }
+    ],
+    "Terraria\tVarinha de Osso\t932": [
+      {
+        "mod": "Terraria",
+        "name": "Ossos Furiosos",
+        "id": 31
+      },
+      {
+        "mod": "Terraria",
+        "name": "Mago das Trevas",
+        "id": 32
+      },
+      {
+        "mod": "Terraria",
+        "name": "Caveira Amaldiçoada",
+        "id": 34
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ossos Furiosos",
+        "id": 294
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ossos Furiosos",
+        "id": 295
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ossos Furiosos",
+        "id": 296
+      }
+    ],
+    "Terraria\tOsso\t154": [
+      {
+        "mod": "Terraria",
+        "name": "Ossos Furiosos",
+        "id": 31
+      },
+      {
+        "mod": "Terraria",
+        "name": "Mago das Trevas",
+        "id": 32
+      },
+      {
+        "mod": "Terraria",
+        "name": "Caveira Amaldiçoada",
+        "id": 34
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "CrimsonBrutalist"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "NecroWalker"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "SSlugger"
+      }
+    ],
+    "Terraria\tChave Dourada\t327": [
+      {
+        "mod": "Terraria",
+        "name": "Ossos Furiosos",
+        "id": 31
+      },
+      {
+        "mod": "Terraria",
+        "name": "Mago das Trevas",
+        "id": 32
+      },
+      {
+        "mod": "Terraria",
+        "name": "Caveira Amaldiçoada",
+        "id": 34
+      },
+      {
+        "mod": "Terraria",
+        "name": "Geleia do Calabouço",
+        "id": 71
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "DungeonCubeBlue"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "DungeonCubeGreen"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "DungeonCubePink"
+      }
+    ],
+    "Terraria\tContador\t3095": [
+      {
+        "mod": "Terraria",
+        "name": "Ossos Furiosos",
+        "id": 31
+      },
+      {
+        "mod": "Terraria",
+        "name": "Mago das Trevas",
+        "id": 32
+      },
+      {
+        "mod": "Terraria",
+        "name": "Caveira Amaldiçoada",
+        "id": 34
+      }
+    ],
+    "Terraria\tNazar\t891": [
+      {
+        "mod": "Terraria",
+        "name": "Caveira Amaldiçoada",
+        "id": 34
+      },
+      {
+        "mod": "Terraria",
+        "name": "Martelo Amaldiçoado",
+        "id": 83
+      },
+      {
+        "mod": "Terraria",
+        "name": "Espada Encantada",
+        "id": 84
+      },
+      {
+        "mod": "Terraria",
+        "name": "Machado de Carmim",
+        "id": 179
+      }
+    ],
+    "Terraria\tMáscara de Esqueletron\t1281": [
+      {
+        "mod": "Terraria",
+        "name": "Esqueletron",
+        "id": 35
+      }
+    ],
+    "Terraria\tTroféu de Esqueletron\t1363": [
+      {
+        "mod": "Terraria",
+        "name": "Esqueletron",
+        "id": 35
+      }
+    ],
+    "Terraria\tLivro de Caveiras\t1313": [
+      {
+        "mod": "Terraria",
+        "name": "Esqueletron",
+        "id": 35
+      }
+    ],
+    "Terraria\tMão de Esqueletron\t1273": [
+      {
+        "mod": "Terraria",
+        "name": "Esqueletron",
+        "id": 35
+      }
+    ],
+    "Terraria\tBezoar\t887": [
+      {
+        "mod": "Terraria",
+        "name": "Vespa",
+        "id": 42
+      },
+      {
+        "mod": "Terraria",
+        "name": "Lama Tóxica",
+        "id": 141
+      },
+      {
+        "mod": "Terraria",
+        "name": "Vespa de Musgo",
+        "id": 176
+      },
+      {
+        "mod": "Terraria",
+        "name": "Vespa",
+        "id": 231
+      },
+      {
+        "mod": "Terraria",
+        "name": "Vespa",
+        "id": 232
+      },
+      {
+        "mod": "Terraria",
+        "name": "Vespa",
+        "id": 233
+      },
+      {
+        "mod": "Terraria",
+        "name": "Vespa",
+        "id": 234
+      },
+      {
+        "mod": "Terraria",
+        "name": "Vespa",
+        "id": 235
+      }
+    ],
+    "Terraria\tElmo de Cobalto Antigo\t960": [
+      {
+        "mod": "Terraria",
+        "name": "Vespa",
+        "id": 42
+      },
+      {
+        "mod": "Terraria",
+        "name": "Devorador de Homens",
+        "id": 43
+      },
+      {
+        "mod": "Terraria",
+        "name": "Vespa",
+        "id": 231
+      },
+      {
+        "mod": "Terraria",
+        "name": "Vespa",
+        "id": 232
+      },
+      {
+        "mod": "Terraria",
+        "name": "Vespa",
+        "id": 233
+      },
+      {
+        "mod": "Terraria",
+        "name": "Vespa",
+        "id": 234
+      },
+      {
+        "mod": "Terraria",
+        "name": "Vespa",
+        "id": 235
+      }
+    ],
+    "Terraria\tMegafone\t890": [
+      {
+        "mod": "Terraria",
+        "name": "Vespa",
+        "id": 42
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pixie",
+        "id": 75
+      },
+      {
+        "mod": "Terraria",
+        "name": "Múmia das Trevas",
+        "id": 79
+      },
+      {
+        "mod": "Terraria",
+        "name": "Água-viva Verde",
+        "id": 103
+      },
+      {
+        "mod": "Terraria",
+        "name": "Vespa",
+        "id": 231
+      },
+      {
+        "mod": "Terraria",
+        "name": "Vespa",
+        "id": 232
+      },
+      {
+        "mod": "Terraria",
+        "name": "Vespa",
+        "id": 233
+      },
+      {
+        "mod": "Terraria",
+        "name": "Vespa",
+        "id": 234
+      },
+      {
+        "mod": "Terraria",
+        "name": "Vespa",
+        "id": 235
+      }
+    ],
+    "Terraria\tFerrão\t209": [
+      {
+        "mod": "Terraria",
+        "name": "Vespa",
+        "id": 42
+      },
+      {
+        "mod": "Terraria",
+        "name": "Geleia da Selva com Espinhos",
+        "id": 204
+      },
+      {
+        "mod": "Terraria",
+        "name": "Vespa",
+        "id": 231
+      },
+      {
+        "mod": "Terraria",
+        "name": "Vespa",
+        "id": 232
+      },
+      {
+        "mod": "Terraria",
+        "name": "Vespa",
+        "id": 233
+      },
+      {
+        "mod": "Terraria",
+        "name": "Vespa",
+        "id": 234
+      },
+      {
+        "mod": "Terraria",
+        "name": "Vespa",
+        "id": 235
+      }
+    ],
+    "Terraria\tVinha\t210": [
+      {
+        "mod": "Terraria",
+        "name": "Devorador de Homens",
+        "id": 43
+      }
+    ],
+    "Terraria\tCalças de Cobalto Antigas\t962": [
+      {
+        "mod": "Terraria",
+        "name": "Devorador de Homens",
+        "id": 43
+      },
+      {
+        "mod": "Terraria",
+        "name": "Vespa",
+        "id": 231
+      },
+      {
+        "mod": "Terraria",
+        "name": "Vespa",
+        "id": 232
+      },
+      {
+        "mod": "Terraria",
+        "name": "Vespa",
+        "id": 234
+      },
+      {
+        "mod": "Terraria",
+        "name": "Vespa",
+        "id": 235
+      }
+    ],
+    "Terraria\tPicareta de Osso\t1320": [
+      {
+        "mod": "Terraria",
+        "name": "Minerador Zumbi",
+        "id": 44
+      }
+    ],
+    "Terraria\tCapacete de Minerador\t88": [
+      {
+        "mod": "Terraria",
+        "name": "Minerador Zumbi",
+        "id": 44
+      }
+    ],
+    "Terraria\tCamiseta de Minerador\t410": [
+      {
+        "mod": "Terraria",
+        "name": "Minerador Zumbi",
+        "id": 44
+      }
+    ],
+    "Terraria\tCalças de Minerador\t411": [
+      {
+        "mod": "Terraria",
+        "name": "Minerador Zumbi",
+        "id": 44
+      }
+    ],
+    "Terraria\tBomba\t166": [
+      {
+        "mod": "Terraria",
+        "name": "Minerador Zumbi",
+        "id": 44
+      }
+    ],
+    "Terraria\tChapéu de Mago\t238": [
+      {
+        "mod": "Terraria",
+        "name": "Tim",
+        "id": 45
+      }
+    ],
+    "Terraria\tCapuz de Coelhinho\t243": [
+      {
+        "mod": "Terraria",
+        "name": "Coelhinho Corrompido",
+        "id": 47
+      },
+      {
+        "mod": "Terraria",
+        "name": "Coelhinho de Carmim",
+        "id": 464
+      }
+    ],
+    "Terraria\tPena de Harpia Gigante\t1516": [
+      {
+        "mod": "Terraria",
+        "name": "Harpia",
+        "id": 48
+      }
+    ],
+    "Terraria\tPena\t320": [
+      {
+        "mod": "Terraria",
+        "name": "Harpia",
+        "id": 48
+      }
+    ],
+    "Terraria\tFaca com Corrente\t1325": [
+      {
+        "mod": "Terraria",
+        "name": "Morcego de Caverna",
+        "id": 49
+      }
+    ],
+    "Terraria\tMedidor de Profundidade\t18": [
+      {
+        "mod": "Terraria",
+        "name": "Morcego de Caverna",
+        "id": 49
+      },
+      {
+        "mod": "Terraria",
+        "name": "Morcego da Selva",
+        "id": 51
+      },
+      {
+        "mod": "Terraria",
+        "name": "Morcego Gigante",
+        "id": 93
+      },
+      {
+        "mod": "Terraria",
+        "name": "Morcego de Gelo",
+        "id": 150
+      },
+      {
+        "mod": "Terraria",
+        "name": "Caranguejo-Pai",
+        "id": 494
+      },
+      {
+        "mod": "Terraria",
+        "name": "Caranguejo-Pai",
+        "id": 495
+      },
+      {
+        "mod": "Terraria",
+        "name": "Shelly Gigante",
+        "id": 496
+      },
+      {
+        "mod": "Terraria",
+        "name": "Shelly Gigante",
+        "id": 497
+      },
+      {
+        "mod": "Terraria",
+        "name": "Salamandra",
+        "id": 498
+      },
+      {
+        "mod": "Terraria",
+        "name": "Salamandra",
+        "id": 499
+      },
+      {
+        "mod": "Terraria",
+        "name": "Salamandra",
+        "id": 500
+      },
+      {
+        "mod": "Terraria",
+        "name": "Salamandra",
+        "id": 501
+      },
+      {
+        "mod": "Terraria",
+        "name": "Salamandra",
+        "id": 502
+      },
+      {
+        "mod": "Terraria",
+        "name": "Salamandra",
+        "id": 503
+      },
+      {
+        "mod": "Terraria",
+        "name": "Salamandra",
+        "id": 504
+      },
+      {
+        "mod": "Terraria",
+        "name": "Salamandra",
+        "id": 505
+      },
+      {
+        "mod": "Terraria",
+        "name": "Salamandra",
+        "id": 506
+      }
+    ],
+    "Terraria\tSela de Geleia\t2430": [
+      {
+        "mod": "Terraria",
+        "name": "Geleia Rei",
+        "id": 50
+      }
+    ],
+    "Terraria\tMáscara da Geleia Rei\t2493": [
+      {
+        "mod": "Terraria",
+        "name": "Geleia Rei",
+        "id": 50
+      }
+    ],
+    "Terraria\tCapuz de Ninja\t256": [
+      {
+        "mod": "Terraria",
+        "name": "Geleia Rei",
+        "id": 50
+      }
+    ],
+    "Terraria\tGancho de Geleia\t2585": [
+      {
+        "mod": "Terraria",
+        "name": "Geleia Rei",
+        "id": 50
+      }
+    ],
+    "Terraria\tSolidificador\t998": [
+      {
+        "mod": "Terraria",
+        "name": "Geleia Rei",
+        "id": 50
+      }
+    ],
+    "Terraria\tTroféu da Geleia Rei\t2489": [
+      {
+        "mod": "Terraria",
+        "name": "Geleia Rei",
+        "id": 50
+      }
+    ],
+    "Terraria\tCalça de Ninja\t258": [
+      {
+        "mod": "Terraria",
+        "name": "Geleia Rei",
+        "id": 50
+      }
+    ],
+    "Terraria\tArma de Geleia\t2610": [
+      {
+        "mod": "Terraria",
+        "name": "Geleia Rei",
+        "id": 50
+      }
+    ],
+    "Terraria\tCamiseta de Ninja\t257": [
+      {
+        "mod": "Terraria",
+        "name": "Geleia Rei",
+        "id": 50
+      }
+    ],
+    "Terraria\tChapéu de Arqueólogo\t251": [
+      {
+        "mod": "Terraria",
+        "name": "Doutor Bones",
+        "id": 52
+      }
+    ],
+    "Terraria\tCartola\t239": [
+      {
+        "mod": "Terraria",
+        "name": "O Noivo",
+        "id": 53
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "MadHatter"
+      }
+    ],
+    "Terraria\tChapéu Vermelho\t260": [
+      {
+        "mod": "Terraria",
+        "name": "Alfaiate",
+        "id": 54
+      }
+    ],
+    "Terraria\tChapéu de Robô\t263": [
+      {
+        "mod": "Terraria",
+        "name": "Piranha",
+        "id": 58
+      },
+      {
+        "mod": "Terraria",
+        "name": "Peixe-diabo",
+        "id": 102
+      }
+    ],
+    "Terraria\tPedra de Magma\t1322": [
+      {
+        "mod": "Terraria",
+        "name": "Morcego Infernal",
+        "id": 60
+      },
+      {
+        "mod": "Terraria",
+        "name": "Morcego de Lava",
+        "id": 151
+      }
+    ],
+    "Terraria\tGadanha Demoníaca\t272": [
+      {
+        "mod": "Terraria",
+        "name": "Demônio",
+        "id": 62
+      },
+      {
+        "mod": "Terraria",
+        "name": "Demônio Vodu",
+        "id": 66
+      }
+    ],
+    "Terraria\tColar de Água-viva\t1303": [
+      {
+        "mod": "Terraria",
+        "name": "Água-viva Azul",
+        "id": 63
+      },
+      {
+        "mod": "Terraria",
+        "name": "Água-viva Cor-de-rosa",
+        "id": 64
+      },
+      {
+        "mod": "Terraria",
+        "name": "Água-viva Verde",
+        "id": 103
+      }
+    ],
+    "Terraria\tBastão Luminoso\t282": [
+      {
+        "mod": "Terraria",
+        "name": "Água-viva Azul",
+        "id": 63
+      },
+      {
+        "mod": "Terraria",
+        "name": "Água-viva Cor-de-rosa",
+        "id": 64
+      },
+      {
+        "mod": "Terraria",
+        "name": "Água-viva Verde",
+        "id": 103
+      }
+    ],
+    "Terraria\tCapacete de Mergulho\t268": [
+      {
+        "mod": "Terraria",
+        "name": "Tubarão",
+        "id": 65
+      }
+    ],
+    "Terraria\tBarbatana de Tubarão\t319": [
+      {
+        "mod": "Terraria",
+        "name": "Tubarão",
+        "id": 65
+      },
+      {
+        "mod": "Terraria",
+        "name": "Tubarão de Areia",
+        "id": 542
+      },
+      {
+        "mod": "Terraria",
+        "name": "Mordedor de Ossos",
+        "id": 543
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ladrão de Carne",
+        "id": 544
+      },
+      {
+        "mod": "Terraria",
+        "name": "Moedor de Cristal",
+        "id": 545
+      }
+    ],
+    "Terraria\tBoneco de Vodu Guia\t267": [
+      {
+        "mod": "Terraria",
+        "name": "Demônio Vodu",
+        "id": 66
+      }
+    ],
+    "Terraria\tChave de Osso\t1169": [
+      {
+        "mod": "Terraria",
+        "name": "Guardião do Calabouço",
+        "id": 68
+      }
+    ],
+    "Terraria\tMandíbula de Formiga-leão\t323": [
+      {
+        "mod": "Terraria",
+        "name": "Formiga-leão",
+        "id": 69
+      },
+      {
+        "mod": "Terraria",
+        "name": "Formiga-leão Corredora",
+        "id": 508
+      },
+      {
+        "mod": "Terraria",
+        "name": "Formiga-leão Voadora",
+        "id": 509
+      }
+    ],
+    "Terraria\tPano Esfarrapado\t362": [
+      {
+        "mod": "Terraria",
+        "name": "Batedor Goblin",
+        "id": 73
+      }
+    ],
+    "Terraria\tMaçã Abençoada\t3260": [
+      {
+        "mod": "Terraria",
+        "name": "Pixie",
+        "id": 75
+      },
+      {
+        "mod": "Terraria",
+        "name": "Múmia de Luz",
+        "id": 80
+      },
+      {
+        "mod": "Terraria",
+        "name": "Espada Encantada",
+        "id": 84
+      },
+      {
+        "mod": "Terraria",
+        "name": "Unicórnio",
+        "id": 86
+      },
+      {
+        "mod": "Terraria",
+        "name": "Elemental do Caos",
+        "id": 120
+      },
+      {
+        "mod": "Terraria",
+        "name": "Gastrópode",
+        "id": 122
+      },
+      {
+        "mod": "Terraria",
+        "name": "Morcego Luminoso",
+        "id": 137
+      },
+      {
+        "mod": "Terraria",
+        "name": "Geleia Luminosa",
+        "id": 138
+      },
+      {
+        "mod": "Terraria",
+        "name": "Porco-dragão",
+        "id": 171
+      },
+      {
+        "mod": "Terraria",
+        "name": "Geleia do Arco-íris",
+        "id": 244
+      },
+      {
+        "mod": "Terraria",
+        "name": "Mímico Consagrado",
+        "id": 475
+      }
+    ],
+    "Terraria\tRelógio Adiantado\t889": [
+      {
+        "mod": "Terraria",
+        "name": "Pixie",
+        "id": 75
+      },
+      {
+        "mod": "Terraria",
+        "name": "Múmia",
+        "id": 78
+      },
+      {
+        "mod": "Terraria",
+        "name": "Assombração",
+        "id": 82
+      },
+      {
+        "mod": "Terraria",
+        "name": "Caçador de Areia",
+        "id": 530
+      },
+      {
+        "mod": "Terraria",
+        "name": "Caçador de Areia",
+        "id": 531
+      }
+    ],
+    "Terraria\tPó de Pixie\t501": [
+      {
+        "mod": "Terraria",
+        "name": "Pixie",
+        "id": 75
+      }
+    ],
+    "Terraria\tEspada de Feixes\t723": [
+      {
+        "mod": "Terraria",
+        "name": "Esqueleto com Armadura",
+        "id": 77
+      }
+    ],
+    "Terraria\tPolidor de Armadura\t886": [
+      {
+        "mod": "Terraria",
+        "name": "Esqueleto com Armadura",
+        "id": 77
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ossos com Armadura Azul",
+        "id": 273
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ossos com Armadura Azul",
+        "id": 274
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ossos com Armadura Azul",
+        "id": 275
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ossos com Armadura Azul",
+        "id": 276
+      }
+    ],
+    "Terraria\tMáscara de Múmia\t870": [
+      {
+        "mod": "Terraria",
+        "name": "Múmia",
+        "id": 78
+      },
+      {
+        "mod": "Terraria",
+        "name": "Múmia das Trevas",
+        "id": 79
+      },
+      {
+        "mod": "Terraria",
+        "name": "Múmia de Luz",
+        "id": 80
+      }
+    ],
+    "Terraria\tCamisa de Múmia\t871": [
+      {
+        "mod": "Terraria",
+        "name": "Múmia",
+        "id": 78
+      },
+      {
+        "mod": "Terraria",
+        "name": "Múmia das Trevas",
+        "id": 79
+      },
+      {
+        "mod": "Terraria",
+        "name": "Múmia de Luz",
+        "id": 80
+      }
+    ],
+    "Terraria\tCalça do Múmia\t872": [
+      {
+        "mod": "Terraria",
+        "name": "Múmia",
+        "id": 78
+      },
+      {
+        "mod": "Terraria",
+        "name": "Múmia das Trevas",
+        "id": 79
+      },
+      {
+        "mod": "Terraria",
+        "name": "Múmia de Luz",
+        "id": 80
+      }
+    ],
+    "Terraria\tVenda\t888": [
+      {
+        "mod": "Terraria",
+        "name": "Múmia das Trevas",
+        "id": 79
+      },
+      {
+        "mod": "Terraria",
+        "name": "Geleia Corrompida",
+        "id": 81
+      },
+      {
+        "mod": "Terraria",
+        "name": "Geleia de Carmim",
+        "id": 183
+      }
+    ],
+    "Terraria\tEstilhaço das Trevas\t527": [
+      {
+        "mod": "Terraria",
+        "name": "Múmia das Trevas",
+        "id": 79
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ghoul Terrível",
+        "id": 525
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ghoul Marcado",
+        "id": 526
+      },
+      {
+        "mod": "Terraria",
+        "name": "Mordedor de Ossos",
+        "id": 543
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ladrão de Carne",
+        "id": 544
+      }
+    ],
+    "Terraria\tMapa em Três Partes\t893": [
+      {
+        "mod": "Terraria",
+        "name": "Múmia de Luz",
+        "id": 80
+      },
+      {
+        "mod": "Terraria",
+        "name": "Morcego Gigante",
+        "id": 93
+      },
+      {
+        "mod": "Terraria",
+        "name": "Palhaço",
+        "id": 109
+      }
+    ],
+    "Terraria\tEstilhaço de Luz\t528": [
+      {
+        "mod": "Terraria",
+        "name": "Múmia de Luz",
+        "id": 80
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ghoul Sonhador",
+        "id": 527
+      },
+      {
+        "mod": "Terraria",
+        "name": "Moedor de Cristal",
+        "id": 545
+      }
+    ],
+    "Terraria\tChifre de Unicórnio\t526": [
+      {
+        "mod": "Terraria",
+        "name": "Unicórnio",
+        "id": 86
+      }
+    ],
+    "Terraria\tUnicórnio de Pau\t856": [
+      {
+        "mod": "Terraria",
+        "name": "Unicórnio",
+        "id": 86
+      }
+    ],
+    "Terraria\tAlma do Voo\t575": [
+      {
+        "mod": "Terraria",
+        "name": "Serpe",
+        "id": 87
+      }
+    ],
+    "Terraria\tVitaminas\t892": [
+      {
+        "mod": "Terraria",
+        "name": "Corruptor",
+        "id": 94
+      },
+      {
+        "mod": "Terraria",
+        "name": "Nojento Flutuante",
+        "id": 182
+      }
+    ],
+    "Terraria\tChama Amaldiçoada\t522": [
+      {
+        "mod": "Terraria",
+        "name": "Alimentador de Mundos",
+        "id": 98
+      },
+      {
+        "mod": "Terraria",
+        "name": "Agarrador",
+        "id": 101
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ghoul Terrível",
+        "id": 525
+      }
+    ],
+    "Terraria\tCurativo Adesivo\t885": [
+      {
+        "mod": "Terraria",
+        "name": "Peixe-diabo",
+        "id": 102
+      },
+      {
+        "mod": "Terraria",
+        "name": "Lobisomem",
+        "id": 104
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ceifador",
+        "id": 253
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ossos com Armadura Enferrujada",
+        "id": 269
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ossos com Armadura Enferrujada",
+        "id": 270
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ossos com Armadura Enferrujada",
+        "id": 271
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ossos com Armadura Enferrujada",
+        "id": 272
+      }
+    ],
+    "Terraria\tAmuleto da Lua\t485": [
+      {
+        "mod": "Terraria",
+        "name": "Lobisomem",
+        "id": 104
+      }
+    ],
+    "Terraria\tBananarangue\t1324": [
+      {
+        "mod": "Terraria",
+        "name": "Palhaço",
+        "id": 109
+      }
+    ],
+    "Terraria\tAljava Mágica\t1321": [
+      {
+        "mod": "Terraria",
+        "name": "Arqueiro Esqueleto",
+        "id": 110
+      }
+    ],
+    "Terraria\tAbóbora\t682": [
+      {
+        "mod": "Terraria",
+        "name": "Arqueiro Esqueleto",
+        "id": 110
+      }
+    ],
+    "Terraria\tMáscara da Parede de Carne\t2105": [
+      {
+        "mod": "Terraria",
+        "name": "Parede de Carne",
+        "id": 113
+      }
+    ],
+    "Terraria\tPwnhammer\t367": [
+      {
+        "mod": "Terraria",
+        "name": "Parede de Carne",
+        "id": 113
+      }
+    ],
+    "Terraria\tEmblema do Feiticeiro\t489": [
+      {
+        "mod": "Terraria",
+        "name": "Parede de Carne",
+        "id": 113
+      }
+    ],
+    "Terraria\tTroféu da Parede de Carne\t1365": [
+      {
+        "mod": "Terraria",
+        "name": "Parede de Carne",
+        "id": 113
+      }
+    ],
+    "Terraria\tPoção de Cura\t188": [
+      {
+        "mod": "Terraria",
+        "name": "Parede de Carne",
+        "id": 113
+      },
+      {
+        "mod": "PureSpirit",
+        "name": "TheImpureSoul"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "ReachBoss1"
+      }
+    ],
+    "Luiafk\tLootMagnet": [
+      {
+        "mod": "Terraria",
+        "name": "Parede de Carne",
+        "id": 113
+      }
+    ],
+    "Terraria\tLâmina do Batedor\t426": [
+      {
+        "mod": "Terraria",
+        "name": "Parede de Carne",
+        "id": 113
+      }
+    ],
+    "Terraria\tFuzil de Assalto Relógio\t434": [
+      {
+        "mod": "Terraria",
+        "name": "Parede de Carne",
+        "id": 113
+      }
+    ],
+    "Terraria\tFuzil de Laser\t514": [
+      {
+        "mod": "Terraria",
+        "name": "Parede de Carne",
+        "id": 113
+      }
+    ],
+    "Terraria\tEmblema do Vigia\t491": [
+      {
+        "mod": "Terraria",
+        "name": "Parede de Carne",
+        "id": 113
+      }
+    ],
+    "Terraria\tEmblema do Invocador\t2998": [
+      {
+        "mod": "Terraria",
+        "name": "Parede de Carne",
+        "id": 113
+      }
+    ],
+    "Terraria\tEmblema do Guerreiro\t490": [
+      {
+        "mod": "Terraria",
+        "name": "Parede de Carne",
+        "id": 113
+      }
+    ],
+    "Terraria\tCajado da Discórdia\t1326": [
+      {
+        "mod": "Terraria",
+        "name": "Elemental do Caos",
+        "id": 120
+      }
+    ],
+    "Terraria\tMáscara dos Gêmeos\t2106": [
+      {
+        "mod": "Terraria",
+        "name": "Retinaser",
+        "id": 125
+      },
+      {
+        "mod": "Terraria",
+        "name": "Spazmatismo",
+        "id": 126
+      }
+    ],
+    "Terraria\tAlma da Visão\t549": [
+      {
+        "mod": "Terraria",
+        "name": "Retinaser",
+        "id": 125
+      },
+      {
+        "mod": "Terraria",
+        "name": "Spazmatismo",
+        "id": 126
+      }
+    ],
+    "Terraria\tBarra Consagrada\t1225": [
+      {
+        "mod": "Terraria",
+        "name": "Retinaser",
+        "id": 125
+      },
+      {
+        "mod": "Terraria",
+        "name": "Spazmatismo",
+        "id": 126
+      },
+      {
+        "mod": "Terraria",
+        "name": "Esqueletron Alfa",
+        "id": 127
+      },
+      {
+        "mod": "Terraria",
+        "name": "O Destruidor",
+        "id": 134
+      }
+    ],
+    "Terraria\tTroféu do Retinaser\t1368": [
+      {
+        "mod": "Terraria",
+        "name": "Retinaser",
+        "id": 125
+      }
+    ],
+    "Terraria\tPoção de Cura Avançada\t499": [
+      {
+        "mod": "Terraria",
+        "name": "Retinaser",
+        "id": 125
+      },
+      {
+        "mod": "Terraria",
+        "name": "Spazmatismo",
+        "id": 126
+      },
+      {
+        "mod": "Terraria",
+        "name": "Esqueletron Alfa",
+        "id": 127
+      },
+      {
+        "mod": "Terraria",
+        "name": "O Destruidor",
+        "id": 134
+      },
+      {
+        "mod": "Terraria",
+        "name": "Golem",
+        "id": 245
+      },
+      {
+        "mod": "Terraria",
+        "name": "Plantera",
+        "id": 262
+      },
+      {
+        "mod": "Terraria",
+        "name": "Duque Peixe-dragão",
+        "id": 370
+      },
+      {
+        "mod": "Terraria",
+        "name": "Disco Voador de Marte",
+        "id": 395
+      },
+      {
+        "mod": "Terraria",
+        "name": "Núcleo do Senhor da Lua",
+        "id": 398
+      },
+      {
+        "mod": "Terraria",
+        "name": "Cultista Lunático",
+        "id": 439
+      },
+      {
+        "mod": "Terraria",
+        "name": "Mímico Corrompido",
+        "id": 473
+      },
+      {
+        "mod": "Terraria",
+        "name": "Mímico de Carmim",
+        "id": 474
+      },
+      {
+        "mod": "Terraria",
+        "name": "Mímico Consagrado",
+        "id": 475
+      },
+      {
+        "mod": "Terraria",
+        "name": "Mímico da Selva",
+        "id": 476
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Atlas"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Dusking"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "FrostSaucer"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "IlluminantMaster"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "SpiritCore"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Rylheian"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "SulfurElemental"
+      }
+    ],
+    "Terraria\tTroféu do Spazmatismo\t1369": [
+      {
+        "mod": "Terraria",
+        "name": "Spazmatismo",
+        "id": 126
+      }
+    ],
+    "Terraria\tMáscara do Esqueletron Alfa\t2107": [
+      {
+        "mod": "Terraria",
+        "name": "Esqueletron Alfa",
+        "id": 127
+      }
+    ],
+    "Terraria\tAlma do Medo\t547": [
+      {
+        "mod": "Terraria",
+        "name": "Esqueletron Alfa",
+        "id": 127
+      }
+    ],
+    "Terraria\tTroféu de Esqueletron Alfa\t1367": [
+      {
+        "mod": "Terraria",
+        "name": "Esqueletron Alfa",
+        "id": 127
+      }
+    ],
+    "Terraria\tLente Negra\t236": [
+      {
+        "mod": "Terraria",
+        "name": "Olho Errante",
+        "id": 133
+      },
+      {
+        "mod": "Terraria",
+        "name": "Olho Demoníaco",
+        "id": 190
+      },
+      {
+        "mod": "Terraria",
+        "name": "Olho Demoníaco",
+        "id": 192
+      },
+      {
+        "mod": "Terraria",
+        "name": "Olho Demoníaco",
+        "id": 194
+      },
+      {
+        "mod": "Terraria",
+        "name": "Olho Demoníaco",
+        "id": 317
+      },
+      {
+        "mod": "Terraria",
+        "name": "Olho Demoníaco",
+        "id": 318
+      }
+    ],
+    "Terraria\tMáscara do Destruidor\t2113": [
+      {
+        "mod": "Terraria",
+        "name": "O Destruidor",
+        "id": 134
+      }
+    ],
+    "Terraria\tAlma da Força\t548": [
+      {
+        "mod": "Terraria",
+        "name": "O Destruidor",
+        "id": 134
+      }
+    ],
+    "Terraria\tTroféu do Destruidor\t1366": [
+      {
+        "mod": "Terraria",
+        "name": "O Destruidor",
+        "id": 134
+      }
+    ],
+    "Terraria\tBloco de Neve\t593": [
+      {
+        "mod": "Terraria",
+        "name": "Boneco de Neve Mafioso",
+        "id": 143
+      },
+      {
+        "mod": "Terraria",
+        "name": "Senhor Facas",
+        "id": 144
+      },
+      {
+        "mod": "Terraria",
+        "name": "Malandro de Neve",
+        "id": 145
+      }
+    ],
+    "Terraria\tPeixes\t669": [
+      {
+        "mod": "Terraria",
+        "name": "Geleia de Gelo",
+        "id": 147
+      },
+      {
+        "mod": "Terraria",
+        "name": "Geleia de Gelo com Espinhos",
+        "id": 184
+      }
+    ],
+    "Terraria\tCasco de Tartaruga\t1328": [
+      {
+        "mod": "Terraria",
+        "name": "Tartaruga Gigante",
+        "id": 153
+      }
+    ],
+    "Terraria\tCasco de Tartaruga Congelada\t1253": [
+      {
+        "mod": "Terraria",
+        "name": "Tartaruga de Gelo",
+        "id": 154
+      }
+    ],
+    "Terraria\tFoice de Gelo\t1306": [
+      {
+        "mod": "Terraria",
+        "name": "Tartaruga de Gelo",
+        "id": 154
+      },
+      {
+        "mod": "Terraria",
+        "name": "Elemental de Gelo",
+        "id": 169
+      },
+      {
+        "mod": "Terraria",
+        "name": "Viking Armado",
+        "id": 197
+      },
+      {
+        "mod": "Terraria",
+        "name": "Tritão Gelado",
+        "id": 206
+      }
+    ],
+    "Terraria\tPena de Fogo\t1518": [
+      {
+        "mod": "Terraria",
+        "name": "Diabo Vermelho",
+        "id": 156
+      }
+    ],
+    "Terraria\tTridente Profano\t683": [
+      {
+        "mod": "Terraria",
+        "name": "Diabo Vermelho",
+        "id": 156
+      }
+    ],
+    "Terraria\tAsa de Morcego Quebrada\t1520": [
+      {
+        "mod": "Terraria",
+        "name": "Vampiro",
+        "id": 158
+      },
+      {
+        "mod": "Terraria",
+        "name": "Vampiro",
+        "id": 159
+      }
+    ],
+    "Terraria\tPedra da Lua\t900": [
+      {
+        "mod": "Terraria",
+        "name": "Vampiro",
+        "id": 158
+      },
+      {
+        "mod": "Terraria",
+        "name": "Vampiro",
+        "id": 159
+      }
+    ],
+    "Terraria\tCapuz Esquimó\t803": [
+      {
+        "mod": "Terraria",
+        "name": "Esquimó Zumbi",
+        "id": 161
+      },
+      {
+        "mod": "Terraria",
+        "name": "Esquimó Zumbi",
+        "id": 431
+      }
+    ],
+    "Terraria\tCapa Esquimó\t804": [
+      {
+        "mod": "Terraria",
+        "name": "Esquimó Zumbi",
+        "id": 161
+      },
+      {
+        "mod": "Terraria",
+        "name": "Esquimó Zumbi",
+        "id": 431
+      }
+    ],
+    "Terraria\tCalça Esquimó\t805": [
+      {
+        "mod": "Terraria",
+        "name": "Esquimó Zumbi",
+        "id": 161
+      },
+      {
+        "mod": "Terraria",
+        "name": "Esquimó Zumbi",
+        "id": 431
+      }
+    ],
+    "Terraria\tCajado Venenoso\t1308": [
+      {
+        "mod": "Terraria",
+        "name": "Aranha Reclusa Negra",
+        "id": 163
+      },
+      {
+        "mod": "Terraria",
+        "name": "Aranha Reclusa Negra",
+        "id": 238
+      }
+    ],
+    "Terraria\tPresa de Aranha\t2607": [
+      {
+        "mod": "Terraria",
+        "name": "Aranha Reclusa Negra",
+        "id": 163
+      },
+      {
+        "mod": "Terraria",
+        "name": "Aranha Reclusa Negra",
+        "id": 238
+      }
+    ],
+    "Terraria\tElmo de Viking\t879": [
+      {
+        "mod": "Terraria",
+        "name": "Viking Zumbi",
+        "id": 167
+      }
+    ],
+    "Terraria\tCapuz de Pedguin\t3757": [
+      {
+        "mod": "Terraria",
+        "name": "Pinguim Corrompido",
+        "id": 168
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pinguim Terrível",
+        "id": 470
+      }
+    ],
+    "Terraria\tJaqueta de Pedguin\t3758": [
+      {
+        "mod": "Terraria",
+        "name": "Pinguim Corrompido",
+        "id": 168
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pinguim Terrível",
+        "id": 470
+      }
+    ],
+    "Terraria\tCajado Congelado\t726": [
+      {
+        "mod": "Terraria",
+        "name": "Elemental de Gelo",
+        "id": 169
+      },
+      {
+        "mod": "Terraria",
+        "name": "Tritão Gelado",
+        "id": 206
+      }
+    ],
+    "Terraria\tBacon\t3532": [
+      {
+        "mod": "Terraria",
+        "name": "Porco-dragão",
+        "id": 170
+      },
+      {
+        "mod": "Terraria",
+        "name": "Porco-dragão",
+        "id": 171
+      },
+      {
+        "mod": "Terraria",
+        "name": "Porco-dragão",
+        "id": 180
+      }
+    ],
+    "Terraria\tChapéu de Runas\t754": [
+      {
+        "mod": "Terraria",
+        "name": "Mago das Runas",
+        "id": 172
+      }
+    ],
+    "Terraria\tRoupão de Runas\t755": [
+      {
+        "mod": "Terraria",
+        "name": "Mago das Runas",
+        "id": 172
+      }
+    ],
+    "Terraria\tVértebra\t1330": [
+      {
+        "mod": "Terraria",
+        "name": "Crimera",
+        "id": 173
+      },
+      {
+        "mod": "Terraria",
+        "name": "Monstro da Face",
+        "id": 181
+      },
+      {
+        "mod": "Terraria",
+        "name": "Nojento Flutuante",
+        "id": 182
+      },
+      {
+        "mod": "Terraria",
+        "name": "Aranha de Sangue",
+        "id": 239
+      },
+      {
+        "mod": "Terraria",
+        "name": "Aranha de Sangue",
+        "id": 240
+      }
+    ],
+    "Terraria\tMoedor de Carne\t996": [
+      {
+        "mod": "Terraria",
+        "name": "Herpling",
+        "id": 174
+      },
+      {
+        "mod": "Terraria",
+        "name": "Machado de Carmim",
+        "id": 179
+      },
+      {
+        "mod": "Terraria",
+        "name": "Nojento Flutuante",
+        "id": 182
+      },
+      {
+        "mod": "Terraria",
+        "name": "Geleia de Carmim",
+        "id": 183
+      }
+    ],
+    "Terraria\tUzi\t1265": [
+      {
+        "mod": "Terraria",
+        "name": "Planta Carnívora Furiosa",
+        "id": 175
+      }
+    ],
+    "Terraria\tAsa de Abelha Esfarrapada\t1521": [
+      {
+        "mod": "Terraria",
+        "name": "Vespa de Musgo",
+        "id": 176
+      }
+    ],
+    "Terraria\tLançador de Bolas de Neve\t951": [
+      {
+        "mod": "Terraria",
+        "name": "Flinx de Neve",
+        "id": 185
+      }
+    ],
+    "Terraria\tFlecha de Madeira\t40": [
+      {
+        "mod": "Terraria",
+        "name": "Zumbi",
+        "id": 186
+      },
+      {
+        "mod": "Terraria",
+        "name": "Zumbi",
+        "id": 432
+      }
+    ],
+    "Terraria\tDetector de Metal\t3102": [
+      {
+        "mod": "Terraria",
+        "name": "Garota Perdida",
+        "id": 195
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ninfa",
+        "id": 196
+      }
+    ],
+    "Terraria\tOvo de Lagarto\t1172": [
+      {
+        "mod": "Terraria",
+        "name": "Lagharto",
+        "id": 198
+      },
+      {
+        "mod": "Terraria",
+        "name": "Lagharto",
+        "id": 199
+      },
+      {
+        "mod": "Terraria",
+        "name": "Cobra Voadora",
+        "id": 226
+      }
+    ],
+    "Terraria\tBateria Lagharto\t1293": [
+      {
+        "mod": "Terraria",
+        "name": "Lagharto",
+        "id": 198
+      },
+      {
+        "mod": "Terraria",
+        "name": "Lagharto",
+        "id": 199
+      },
+      {
+        "mod": "Terraria",
+        "name": "Cobra Voadora",
+        "id": 226
+      }
+    ],
+    "Terraria\tFragmento da Placa do Sol\t2766": [
+      {
+        "mod": "Terraria",
+        "name": "Lagharto",
+        "id": 198
+      },
+      {
+        "mod": "Terraria",
+        "name": "Lagharto",
+        "id": 199
+      },
+      {
+        "mod": "Terraria",
+        "name": "Cobra Voadora",
+        "id": 226
+      }
+    ],
+    "Terraria\tPó de Borboleta\t1611": [
+      {
+        "mod": "Terraria",
+        "name": "Mariposa",
+        "id": 205
+      }
+    ],
+    "Terraria\tCimitarra Exótica\t3349": [
+      {
+        "mod": "Terraria",
+        "name": "Comerciante de Tinturas",
+        "id": 207
+      }
+    ],
+    "Terraria\tGranada Feliz\t3548": [
+      {
+        "mod": "Terraria",
+        "name": "Garota da Festa",
+        "id": 208
+      }
+    ],
+    "Terraria\tPistola de Moedas\t905": [
+      {
+        "mod": "Terraria",
+        "name": "Marinheiro Pirata",
+        "id": 212
+      },
+      {
+        "mod": "Terraria",
+        "name": "Corsário Pirata",
+        "id": 213
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirata Caolho",
+        "id": 214
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirata Atirador",
+        "id": 215
+      },
+      {
+        "mod": "Terraria",
+        "name": "Capitão Pirata",
+        "id": 216
+      },
+      {
+        "mod": "Terraria",
+        "name": "Holandês Voador",
+        "id": 491
+      }
+    ],
+    "Terraria\tMoeda da Sorte\t855": [
+      {
+        "mod": "Terraria",
+        "name": "Marinheiro Pirata",
+        "id": 212
+      },
+      {
+        "mod": "Terraria",
+        "name": "Corsário Pirata",
+        "id": 213
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirata Caolho",
+        "id": 214
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirata Atirador",
+        "id": 215
+      },
+      {
+        "mod": "Terraria",
+        "name": "Capitão Pirata",
+        "id": 216
+      },
+      {
+        "mod": "Terraria",
+        "name": "Holandês Voador",
+        "id": 491
+      }
+    ],
+    "Terraria\tCartão de Desconto\t854": [
+      {
+        "mod": "Terraria",
+        "name": "Marinheiro Pirata",
+        "id": 212
+      },
+      {
+        "mod": "Terraria",
+        "name": "Corsário Pirata",
+        "id": 213
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirata Caolho",
+        "id": 214
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirata Atirador",
+        "id": 215
+      },
+      {
+        "mod": "Terraria",
+        "name": "Capitão Pirata",
+        "id": 216
+      },
+      {
+        "mod": "Terraria",
+        "name": "Holandês Voador",
+        "id": 491
+      }
+    ],
+    "Terraria\tCajado Pirata\t2584": [
+      {
+        "mod": "Terraria",
+        "name": "Marinheiro Pirata",
+        "id": 212
+      },
+      {
+        "mod": "Terraria",
+        "name": "Corsário Pirata",
+        "id": 213
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirata Caolho",
+        "id": 214
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirata Atirador",
+        "id": 215
+      },
+      {
+        "mod": "Terraria",
+        "name": "Capitão Pirata",
+        "id": 216
+      },
+      {
+        "mod": "Terraria",
+        "name": "Holandês Voador",
+        "id": 491
+      }
+    ],
+    "Terraria\tAnel de Ouro\t3033": [
+      {
+        "mod": "Terraria",
+        "name": "Marinheiro Pirata",
+        "id": 212
+      },
+      {
+        "mod": "Terraria",
+        "name": "Corsário Pirata",
+        "id": 213
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirata Caolho",
+        "id": 214
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirata Atirador",
+        "id": 215
+      },
+      {
+        "mod": "Terraria",
+        "name": "Capitão Pirata",
+        "id": 216
+      },
+      {
+        "mod": "Terraria",
+        "name": "Holandês Voador",
+        "id": 491
+      }
+    ],
+    "Terraria\tCutlass\t672": [
+      {
+        "mod": "Terraria",
+        "name": "Marinheiro Pirata",
+        "id": 212
+      },
+      {
+        "mod": "Terraria",
+        "name": "Corsário Pirata",
+        "id": 213
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirata Caolho",
+        "id": 214
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirata Atirador",
+        "id": 215
+      },
+      {
+        "mod": "Terraria",
+        "name": "Capitão Pirata",
+        "id": 216
+      },
+      {
+        "mod": "Terraria",
+        "name": "Holandês Voador",
+        "id": 491
+      }
+    ],
+    "Terraria\tChapéu de Marinheiro\t1277": [
+      {
+        "mod": "Terraria",
+        "name": "Marinheiro Pirata",
+        "id": 212
+      },
+      {
+        "mod": "Terraria",
+        "name": "Corsário Pirata",
+        "id": 213
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirata Caolho",
+        "id": 214
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirata Atirador",
+        "id": 215
+      }
+    ],
+    "Terraria\tTapa-olho\t1278": [
+      {
+        "mod": "Terraria",
+        "name": "Marinheiro Pirata",
+        "id": 212
+      },
+      {
+        "mod": "Terraria",
+        "name": "Corsário Pirata",
+        "id": 213
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirata Caolho",
+        "id": 214
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirata Atirador",
+        "id": 215
+      }
+    ],
+    "Terraria\tCamisa de Marinheiro\t1279": [
+      {
+        "mod": "Terraria",
+        "name": "Marinheiro Pirata",
+        "id": 212
+      },
+      {
+        "mod": "Terraria",
+        "name": "Corsário Pirata",
+        "id": 213
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirata Caolho",
+        "id": 214
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirata Atirador",
+        "id": 215
+      }
+    ],
+    "Terraria\tCalça de Marinheiro\t1280": [
+      {
+        "mod": "Terraria",
+        "name": "Marinheiro Pirata",
+        "id": 212
+      },
+      {
+        "mod": "Terraria",
+        "name": "Corsário Pirata",
+        "id": 213
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirata Caolho",
+        "id": 214
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirata Atirador",
+        "id": 215
+      }
+    ],
+    "Terraria\tCadeira Dourada\t1704": [
+      {
+        "mod": "Terraria",
+        "name": "Marinheiro Pirata",
+        "id": 212
+      },
+      {
+        "mod": "Terraria",
+        "name": "Corsário Pirata",
+        "id": 213
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirata Caolho",
+        "id": 214
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirata Atirador",
+        "id": 215
+      }
+    ],
+    "Terraria\tPrivada Dourada\t1705": [
+      {
+        "mod": "Terraria",
+        "name": "Marinheiro Pirata",
+        "id": 212
+      },
+      {
+        "mod": "Terraria",
+        "name": "Corsário Pirata",
+        "id": 213
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirata Caolho",
+        "id": 214
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirata Atirador",
+        "id": 215
+      }
+    ],
+    "Terraria\tPorta Dourada\t1710": [
+      {
+        "mod": "Terraria",
+        "name": "Marinheiro Pirata",
+        "id": 212
+      },
+      {
+        "mod": "Terraria",
+        "name": "Corsário Pirata",
+        "id": 213
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirata Caolho",
+        "id": 214
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirata Atirador",
+        "id": 215
+      }
+    ],
+    "Terraria\tMesa Dourada\t1716": [
+      {
+        "mod": "Terraria",
+        "name": "Marinheiro Pirata",
+        "id": 212
+      },
+      {
+        "mod": "Terraria",
+        "name": "Corsário Pirata",
+        "id": 213
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirata Caolho",
+        "id": 214
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirata Atirador",
+        "id": 215
+      }
+    ],
+    "Terraria\tCama Dourada\t1720": [
+      {
+        "mod": "Terraria",
+        "name": "Marinheiro Pirata",
+        "id": 212
+      },
+      {
+        "mod": "Terraria",
+        "name": "Corsário Pirata",
+        "id": 213
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirata Caolho",
+        "id": 214
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirata Atirador",
+        "id": 215
+      }
+    ],
+    "Terraria\tPiano Dourado\t2379": [
+      {
+        "mod": "Terraria",
+        "name": "Marinheiro Pirata",
+        "id": 212
+      },
+      {
+        "mod": "Terraria",
+        "name": "Corsário Pirata",
+        "id": 213
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirata Caolho",
+        "id": 214
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirata Atirador",
+        "id": 215
+      }
+    ],
+    "Terraria\tCômoda Dourada\t2389": [
+      {
+        "mod": "Terraria",
+        "name": "Marinheiro Pirata",
+        "id": 212
+      },
+      {
+        "mod": "Terraria",
+        "name": "Corsário Pirata",
+        "id": 213
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirata Caolho",
+        "id": 214
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirata Atirador",
+        "id": 215
+      }
+    ],
+    "Terraria\tSofá Dourado\t2405": [
+      {
+        "mod": "Terraria",
+        "name": "Marinheiro Pirata",
+        "id": 212
+      },
+      {
+        "mod": "Terraria",
+        "name": "Corsário Pirata",
+        "id": 213
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirata Caolho",
+        "id": 214
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirata Atirador",
+        "id": 215
+      }
+    ],
+    "Terraria\tPia Dourada\t2843": [
+      {
+        "mod": "Terraria",
+        "name": "Marinheiro Pirata",
+        "id": 212
+      },
+      {
+        "mod": "Terraria",
+        "name": "Corsário Pirata",
+        "id": 213
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirata Caolho",
+        "id": 214
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirata Atirador",
+        "id": 215
+      }
+    ],
+    "Terraria\tBaú de Ouro\t3885": [
+      {
+        "mod": "Terraria",
+        "name": "Marinheiro Pirata",
+        "id": 212
+      },
+      {
+        "mod": "Terraria",
+        "name": "Corsário Pirata",
+        "id": 213
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirata Caolho",
+        "id": 214
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirata Atirador",
+        "id": 215
+      }
+    ],
+    "Terraria\tBanheira Dourada\t2663": [
+      {
+        "mod": "Terraria",
+        "name": "Marinheiro Pirata",
+        "id": 212
+      },
+      {
+        "mod": "Terraria",
+        "name": "Corsário Pirata",
+        "id": 213
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirata Caolho",
+        "id": 214
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirata Atirador",
+        "id": 215
+      }
+    ],
+    "Terraria\tPlataforma de Ouro\t3904": [
+      {
+        "mod": "Terraria",
+        "name": "Marinheiro Pirata",
+        "id": 212
+      },
+      {
+        "mod": "Terraria",
+        "name": "Corsário Pirata",
+        "id": 213
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirata Caolho",
+        "id": 214
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirata Atirador",
+        "id": 215
+      }
+    ],
+    "Terraria\tMesa de Trabalho de Ouro\t3910": [
+      {
+        "mod": "Terraria",
+        "name": "Marinheiro Pirata",
+        "id": 212
+      },
+      {
+        "mod": "Terraria",
+        "name": "Corsário Pirata",
+        "id": 213
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirata Caolho",
+        "id": 214
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirata Atirador",
+        "id": 215
+      }
+    ],
+    "Terraria\tRelógio Dourado\t2238": [
+      {
+        "mod": "Terraria",
+        "name": "Marinheiro Pirata",
+        "id": 212
+      },
+      {
+        "mod": "Terraria",
+        "name": "Corsário Pirata",
+        "id": 213
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirata Caolho",
+        "id": 214
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirata Atirador",
+        "id": 215
+      }
+    ],
+    "Terraria\tLâmpada Dourada\t2133": [
+      {
+        "mod": "Terraria",
+        "name": "Marinheiro Pirata",
+        "id": 212
+      },
+      {
+        "mod": "Terraria",
+        "name": "Corsário Pirata",
+        "id": 213
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirata Caolho",
+        "id": 214
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirata Atirador",
+        "id": 215
+      }
+    ],
+    "Terraria\tEstante Dourada\t2137": [
+      {
+        "mod": "Terraria",
+        "name": "Marinheiro Pirata",
+        "id": 212
+      },
+      {
+        "mod": "Terraria",
+        "name": "Corsário Pirata",
+        "id": 213
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirata Caolho",
+        "id": 214
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirata Atirador",
+        "id": 215
+      }
+    ],
+    "Terraria\tLustre Dourado\t2143": [
+      {
+        "mod": "Terraria",
+        "name": "Marinheiro Pirata",
+        "id": 212
+      },
+      {
+        "mod": "Terraria",
+        "name": "Corsário Pirata",
+        "id": 213
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirata Caolho",
+        "id": 214
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirata Atirador",
+        "id": 215
+      }
+    ],
+    "Terraria\tLanterna Dourada\t2147": [
+      {
+        "mod": "Terraria",
+        "name": "Marinheiro Pirata",
+        "id": 212
+      },
+      {
+        "mod": "Terraria",
+        "name": "Corsário Pirata",
+        "id": 213
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirata Caolho",
+        "id": 214
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirata Atirador",
+        "id": 215
+      }
+    ],
+    "Terraria\tCandelabro Dourado\t2151": [
+      {
+        "mod": "Terraria",
+        "name": "Marinheiro Pirata",
+        "id": 212
+      },
+      {
+        "mod": "Terraria",
+        "name": "Corsário Pirata",
+        "id": 213
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirata Caolho",
+        "id": 214
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirata Atirador",
+        "id": 215
+      }
+    ],
+    "Terraria\tVela Dourada\t2155": [
+      {
+        "mod": "Terraria",
+        "name": "Marinheiro Pirata",
+        "id": 212
+      },
+      {
+        "mod": "Terraria",
+        "name": "Corsário Pirata",
+        "id": 213
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirata Caolho",
+        "id": 214
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirata Atirador",
+        "id": 215
+      }
+    ],
+    "Terraria\tPulseira do Bucaneiro\t3263": [
+      {
+        "mod": "Terraria",
+        "name": "Marinheiro Pirata",
+        "id": 212
+      },
+      {
+        "mod": "Terraria",
+        "name": "Corsário Pirata",
+        "id": 213
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirata Caolho",
+        "id": 214
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirata Atirador",
+        "id": 215
+      }
+    ],
+    "Terraria\tTúnica do Bucaneiro\t3264": [
+      {
+        "mod": "Terraria",
+        "name": "Marinheiro Pirata",
+        "id": 212
+      },
+      {
+        "mod": "Terraria",
+        "name": "Corsário Pirata",
+        "id": 213
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirata Caolho",
+        "id": 214
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirata Atirador",
+        "id": 215
+      }
+    ],
+    "Terraria\tPantalonas do Bucaneiro\t3265": [
+      {
+        "mod": "Terraria",
+        "name": "Marinheiro Pirata",
+        "id": 212
+      },
+      {
+        "mod": "Terraria",
+        "name": "Corsário Pirata",
+        "id": 213
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirata Caolho",
+        "id": 214
+      },
+      {
+        "mod": "Terraria",
+        "name": "Pirata Atirador",
+        "id": 215
+      }
+    ],
+    "Terraria\tCasca Vermelha\t1115": [
+      {
+        "mod": "Terraria",
+        "name": "Besouro da Cochonilha",
+        "id": 217
+      }
+    ],
+    "Terraria\tCasca Ciano\t1116": [
+      {
+        "mod": "Terraria",
+        "name": "Besouro Ciano",
+        "id": 218
+      }
+    ],
+    "Terraria\tCasca Violeta\t1117": [
+      {
+        "mod": "Terraria",
+        "name": "Besouro da Laca",
+        "id": 219
+      }
+    ],
+    "Terraria\tMuco Roxo\t1118": [
+      {
+        "mod": "Terraria",
+        "name": "Caracol do Mar",
+        "id": 220
+      }
+    ],
+    "Terraria\tTinta Preta\t1119": [
+      {
+        "mod": "Terraria",
+        "name": "Lula",
+        "id": 221
+      }
+    ],
+    "Terraria\tMáscara da Abelha Rainha\t2108": [
+      {
+        "mod": "Terraria",
+        "name": "Abelha Rainha",
+        "id": 222
+      }
+    ],
+    "Terraria\tPistola de Abelhas\t1121": [
+      {
+        "mod": "Terraria",
+        "name": "Abelha Rainha",
+        "id": 222
+      }
+    ],
+    "Terraria\tFavo de Mel\t1132": [
+      {
+        "mod": "Terraria",
+        "name": "Abelha Rainha",
+        "id": 222
+      }
+    ],
+    "Terraria\tNéctar\t1170": [
+      {
+        "mod": "Terraria",
+        "name": "Abelha Rainha",
+        "id": 222
+      }
+    ],
+    "Terraria\tÓculos de Mel\t2502": [
+      {
+        "mod": "Terraria",
+        "name": "Abelha Rainha",
+        "id": 222
+      }
+    ],
+    "Terraria\tVarinha de Favo\t1129": [
+      {
+        "mod": "Terraria",
+        "name": "Abelha Rainha",
+        "id": 222
+      }
+    ],
+    "Terraria\tCera de Abelhas\t2431": [
+      {
+        "mod": "Terraria",
+        "name": "Abelha Rainha",
+        "id": 222
+      }
+    ],
+    "Terraria\tTroféu da Abelha Rainha\t1364": [
+      {
+        "mod": "Terraria",
+        "name": "Abelha Rainha",
+        "id": 222
+      }
+    ],
+    "Terraria\tMel Engarrafado\t1134": [
+      {
+        "mod": "Terraria",
+        "name": "Abelha Rainha",
+        "id": 222
+      }
+    ],
+    "Terraria\tMestre das Abelhas\t1123": [
+      {
+        "mod": "Terraria",
+        "name": "Abelha Rainha",
+        "id": 222
+      }
+    ],
+    "Terraria\tGranada de Abelhas\t1130": [
+      {
+        "mod": "Terraria",
+        "name": "Abelha Rainha",
+        "id": 222
+      }
+    ],
+    "Terraria\tCamisa de Abelha\t843": [
+      {
+        "mod": "Terraria",
+        "name": "Abelha Rainha",
+        "id": 222
+      }
+    ],
+    "Terraria\tCalça de Abelha\t844": [
+      {
+        "mod": "Terraria",
+        "name": "Abelha Rainha",
+        "id": 222
+      }
+    ],
+    "Terraria\tAbelharco\t2888": [
+      {
+        "mod": "Terraria",
+        "name": "Abelha Rainha",
+        "id": 222
+      }
+    ],
+    "Terraria\tChapéu de Abelha\t842": [
+      {
+        "mod": "Terraria",
+        "name": "Abelha Rainha",
+        "id": 222
+      }
+    ],
+    "Terraria\tChapéu de Chuva\t1135": [
+      {
+        "mod": "Terraria",
+        "name": "Zumbi com Capa de Chuva",
+        "id": 223
+      }
+    ],
+    "Terraria\tCapa de Chuva\t1136": [
+      {
+        "mod": "Terraria",
+        "name": "Zumbi com Capa de Chuva",
+        "id": 223
+      }
+    ],
+    "Terraria\tChapéu Guarda-chuva\t1243": [
+      {
+        "mod": "Terraria",
+        "name": "Geleia com Guarda-chuva",
+        "id": 225
+      }
+    ],
+    "Terraria\tArma de Paintball\t3350": [
+      {
+        "mod": "Terraria",
+        "name": "Pintor",
+        "id": 227
+      }
+    ],
+    "Terraria\tPeitoral de Cobalto Antigo\t961": [
+      {
+        "mod": "Terraria",
+        "name": "Vespa",
+        "id": 232
+      },
+      {
+        "mod": "Terraria",
+        "name": "Vespa",
+        "id": 234
+      },
+      {
+        "mod": "Terraria",
+        "name": "Vespa",
+        "id": 235
+      }
+    ],
+    "Terraria\tPena de Gelo\t1519": [
+      {
+        "mod": "Terraria",
+        "name": "Golem de Gelo",
+        "id": 243
+      }
+    ],
+    "Terraria\tNúcleo de Gelo\t2161": [
+      {
+        "mod": "Terraria",
+        "name": "Golem de Gelo",
+        "id": 243
+      }
+    ],
+    "Terraria\tTijolo de Arco-íris\t662": [
+      {
+        "mod": "Terraria",
+        "name": "Geleia do Arco-íris",
+        "id": 244
+      }
+    ],
+    "Terraria\tMáscara do Golem\t2110": [
+      {
+        "mod": "Terraria",
+        "name": "Golem",
+        "id": 245
+      }
+    ],
+    "Terraria\tFerroada\t1258": [
+      {
+        "mod": "Terraria",
+        "name": "Golem",
+        "id": 245
+      }
+    ],
+    "Terraria\tRaio Perfurante\t1261": [
+      {
+        "mod": "Terraria",
+        "name": "Golem",
+        "id": 245
+      }
+    ],
+    "Terraria\tCasco de Besouro\t2218": [
+      {
+        "mod": "Terraria",
+        "name": "Golem",
+        "id": 245
+      }
+    ],
+    "Terraria\tTroféu do Golem\t1371": [
+      {
+        "mod": "Terraria",
+        "name": "Golem",
+        "id": 245
+      }
+    ],
+    "Terraria\tMachadinha Possuída\t1122": [
+      {
+        "mod": "Terraria",
+        "name": "Golem",
+        "id": 245
+      }
+    ],
+    "Terraria\tPedra do Sol\t899": [
+      {
+        "mod": "Terraria",
+        "name": "Golem",
+        "id": 245
+      }
+    ],
+    "Terraria\tOlho do Golem\t1248": [
+      {
+        "mod": "Terraria",
+        "name": "Golem",
+        "id": 245
+      }
+    ],
+    "Terraria\tPicareta Serrada\t1294": [
+      {
+        "mod": "Terraria",
+        "name": "Golem",
+        "id": 245
+      }
+    ],
+    "Terraria\tRaio de Calor\t1295": [
+      {
+        "mod": "Terraria",
+        "name": "Golem",
+        "id": 245
+      }
+    ],
+    "Terraria\tCajado da Terra\t1296": [
+      {
+        "mod": "Terraria",
+        "name": "Golem",
+        "id": 245
+      }
+    ],
+    "Terraria\tPunho de Golem\t1297": [
+      {
+        "mod": "Terraria",
+        "name": "Golem",
+        "id": 245
+      }
+    ],
+    "Terraria\tVarinha Nebulosa\t1244": [
+      {
+        "mod": "Terraria",
+        "name": "Nuvem com Raiva",
+        "id": 250
+      }
+    ],
+    "Terraria\tOlho com Mola\t1311": [
+      {
+        "mod": "Terraria",
+        "name": "Zumbolho",
+        "id": 251
+      }
+    ],
+    "Terraria\tFoice da Morte\t1327": [
+      {
+        "mod": "Terraria",
+        "name": "Ceifador",
+        "id": 253
+      }
+    ],
+    "Terraria\tMáscara da Plantera\t2109": [
+      {
+        "mod": "Terraria",
+        "name": "Plantera",
+        "id": 262
+      }
+    ],
+    "Terraria\tChave do Templo\t1141": [
+      {
+        "mod": "Terraria",
+        "name": "Plantera",
+        "id": 262
+      }
+    ],
+    "Terraria\tMuda\t1182": [
+      {
+        "mod": "Terraria",
+        "name": "Plantera",
+        "id": 262
+      }
+    ],
+    "Terraria\tO Machado\t1305": [
+      {
+        "mod": "Terraria",
+        "name": "Plantera",
+        "id": 262
+      }
+    ],
+    "Terraria\tCajado Pigmeu\t1157": [
+      {
+        "mod": "Terraria",
+        "name": "Plantera",
+        "id": 262
+      }
+    ],
+    "Terraria\tGancho dos Espinhos\t3021": [
+      {
+        "mod": "Terraria",
+        "name": "Plantera",
+        "id": 262
+      }
+    ],
+    "Terraria\tLança-granadas\t758": [
+      {
+        "mod": "Terraria",
+        "name": "Plantera",
+        "id": 262
+      }
+    ],
+    "Terraria\tFoguete I\t771": [
+      {
+        "mod": "Terraria",
+        "name": "Plantera",
+        "id": 262
+      }
+    ],
+    "Terraria\tTroféu da Plantera\t1370": [
+      {
+        "mod": "Terraria",
+        "name": "Plantera",
+        "id": 262
+      }
+    ],
+    "Terraria\tExplosão de Urtiga\t788": [
+      {
+        "mod": "Terraria",
+        "name": "Plantera",
+        "id": 262
+      }
+    ],
+    "Terraria\tPoder das Flores\t1259": [
+      {
+        "mod": "Terraria",
+        "name": "Plantera",
+        "id": 262
+      }
+    ],
+    "Terraria\tEspada Espinho\t3018": [
+      {
+        "mod": "Terraria",
+        "name": "Plantera",
+        "id": 262
+      }
+    ],
+    "Terraria\tMagnum de Vênus\t1255": [
+      {
+        "mod": "Terraria",
+        "name": "Plantera",
+        "id": 262
+      }
+    ],
+    "Terraria\tSoprador de Folhas\t1178": [
+      {
+        "mod": "Terraria",
+        "name": "Plantera",
+        "id": 262
+      }
+    ],
+    "Terraria\tPistola de Vespas\t1155": [
+      {
+        "mod": "Terraria",
+        "name": "Plantera",
+        "id": 262
+      }
+    ],
+    "Terraria\tMinério de Carmim\t880": [
+      {
+        "mod": "Terraria",
+        "name": "Cérebro de Cthulhu",
+        "id": 266
+      }
+    ],
+    "Terraria\tMáscara do Cérebro de Cthulhu\t2104": [
+      {
+        "mod": "Terraria",
+        "name": "Cérebro de Cthulhu",
+        "id": 266
+      }
+    ],
+    "Terraria\tChocalho de Osso\t3060": [
+      {
+        "mod": "Terraria",
+        "name": "Cérebro de Cthulhu",
+        "id": 266
+      }
+    ],
+    "Terraria\tTroféu do Cérebro de Cthulhu\t1362": [
+      {
+        "mod": "Terraria",
+        "name": "Cérebro de Cthulhu",
+        "id": 266
+      }
+    ],
+    "Terraria\tIchor\t1332": [
+      {
+        "mod": "Terraria",
+        "name": "Adesivo de Ichor",
+        "id": 268
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ghoul Marcado",
+        "id": 526
+      }
+    ],
+    "Terraria\tPena de Osso\t1517": [
+      {
+        "mod": "Terraria",
+        "name": "Ossos com Armadura Enferrujada",
+        "id": 269
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ossos com Armadura Enferrujada",
+        "id": 270
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ossos com Armadura Enferrujada",
+        "id": 271
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ossos com Armadura Enferrujada",
+        "id": 272
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ossos com Armadura Azul",
+        "id": 273
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ossos com Armadura Azul",
+        "id": 274
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ossos com Armadura Azul",
+        "id": 275
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ossos com Armadura Azul",
+        "id": 276
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ossos com Armadura Infernal",
+        "id": 277
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ossos com Armadura Infernal",
+        "id": 278
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ossos com Armadura Infernal",
+        "id": 279
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ossos com Armadura Infernal",
+        "id": 280
+      }
+    ],
+    "Terraria\tFantasma na Garrafa\t1183": [
+      {
+        "mod": "Terraria",
+        "name": "Ossos com Armadura Enferrujada",
+        "id": 269
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ossos com Armadura Enferrujada",
+        "id": 270
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ossos com Armadura Enferrujada",
+        "id": 271
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ossos com Armadura Enferrujada",
+        "id": 272
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ossos com Armadura Azul",
+        "id": 273
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ossos com Armadura Azul",
+        "id": 274
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ossos com Armadura Azul",
+        "id": 275
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ossos com Armadura Azul",
+        "id": 276
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ossos com Armadura Infernal",
+        "id": 277
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ossos com Armadura Infernal",
+        "id": 278
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ossos com Armadura Infernal",
+        "id": 279
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ossos com Armadura Infernal",
+        "id": 280
+      }
+    ],
+    "Terraria\tEsfera Magnética\t1266": [
+      {
+        "mod": "Terraria",
+        "name": "Ossos com Armadura Enferrujada",
+        "id": 269
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ossos com Armadura Enferrujada",
+        "id": 270
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ossos com Armadura Enferrujada",
+        "id": 271
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ossos com Armadura Enferrujada",
+        "id": 272
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ossos com Armadura Azul",
+        "id": 273
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ossos com Armadura Azul",
+        "id": 274
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ossos com Armadura Azul",
+        "id": 275
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ossos com Armadura Azul",
+        "id": 276
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ossos com Armadura Infernal",
+        "id": 277
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ossos com Armadura Infernal",
+        "id": 278
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ossos com Armadura Infernal",
+        "id": 279
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ossos com Armadura Infernal",
+        "id": 280
+      }
+    ],
+    "Terraria\tKraken\t3291": [
+      {
+        "mod": "Terraria",
+        "name": "Ossos com Armadura Enferrujada",
+        "id": 269
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ossos com Armadura Enferrujada",
+        "id": 270
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ossos com Armadura Enferrujada",
+        "id": 271
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ossos com Armadura Enferrujada",
+        "id": 272
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ossos com Armadura Azul",
+        "id": 273
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ossos com Armadura Azul",
+        "id": 274
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ossos com Armadura Azul",
+        "id": 275
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ossos com Armadura Azul",
+        "id": 276
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ossos com Armadura Infernal",
+        "id": 277
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ossos com Armadura Infernal",
+        "id": 278
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ossos com Armadura Infernal",
+        "id": 279
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ossos com Armadura Infernal",
+        "id": 280
+      },
+      {
+        "mod": "Terraria",
+        "name": "Mago em Trapos",
+        "id": 281
+      },
+      {
+        "mod": "Terraria",
+        "name": "Mago em Trapos",
+        "id": 282
+      },
+      {
+        "mod": "Terraria",
+        "name": "Necromancer",
+        "id": 283
+      },
+      {
+        "mod": "Terraria",
+        "name": "Necromancer",
+        "id": 284
+      },
+      {
+        "mod": "Terraria",
+        "name": "Satanista",
+        "id": 285
+      },
+      {
+        "mod": "Terraria",
+        "name": "Satanista",
+        "id": 286
+      },
+      {
+        "mod": "Terraria",
+        "name": "Bone Lee",
+        "id": 287
+      },
+      {
+        "mod": "Terraria",
+        "name": "Espírito do Calabouço",
+        "id": 288
+      },
+      {
+        "mod": "Terraria",
+        "name": "Caveira Gigante Amaldiçoada",
+        "id": 289
+      },
+      {
+        "mod": "Terraria",
+        "name": "Paladino",
+        "id": 290
+      },
+      {
+        "mod": "Terraria",
+        "name": "Atirador Esqueleto",
+        "id": 291
+      },
+      {
+        "mod": "Terraria",
+        "name": "Esqueleto Tático",
+        "id": 292
+      },
+      {
+        "mod": "Terraria",
+        "name": "Comando Esqueleto",
+        "id": 293
+      }
+    ],
+    "Terraria\tKeybrand\t671": [
+      {
+        "mod": "Terraria",
+        "name": "Ossos com Armadura Enferrujada",
+        "id": 270
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ossos com Armadura Enferrujada",
+        "id": 271
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ossos com Armadura Enferrujada",
+        "id": 272
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ossos com Armadura Azul",
+        "id": 274
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ossos com Armadura Azul",
+        "id": 275
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ossos com Armadura Infernal",
+        "id": 277
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ossos com Armadura Infernal",
+        "id": 278
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ossos com Armadura Infernal",
+        "id": 279
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ossos com Armadura Infernal",
+        "id": 280
+      }
+    ],
+    "Terraria\tCajado dos Espectros\t1446": [
+      {
+        "mod": "Terraria",
+        "name": "Mago em Trapos",
+        "id": 281
+      },
+      {
+        "mod": "Terraria",
+        "name": "Mago em Trapos",
+        "id": 282
+      }
+    ],
+    "Terraria\tCajado do Feixe das Sombras\t1444": [
+      {
+        "mod": "Terraria",
+        "name": "Necromancer",
+        "id": 283
+      },
+      {
+        "mod": "Terraria",
+        "name": "Necromancer",
+        "id": 284
+      }
+    ],
+    "Terraria\tGarfo do Inferno\t1445": [
+      {
+        "mod": "Terraria",
+        "name": "Satanista",
+        "id": 285
+      },
+      {
+        "mod": "Terraria",
+        "name": "Satanista",
+        "id": 286
+      }
+    ],
+    "Terraria\tFaixa Preta\t963": [
+      {
+        "mod": "Terraria",
+        "name": "Bone Lee",
+        "id": 287
+      }
+    ],
+    "Terraria\tTabi\t977": [
+      {
+        "mod": "Terraria",
+        "name": "Bone Lee",
+        "id": 287
+      }
+    ],
+    "Terraria\tEctoplasma\t1508": [
+      {
+        "mod": "Terraria",
+        "name": "Espírito do Calabouço",
+        "id": 288
+      }
+    ],
+    "Terraria\tMartelo do Paladino\t1513": [
+      {
+        "mod": "Terraria",
+        "name": "Paladino",
+        "id": 290
+      }
+    ],
+    "Terraria\tEscudo do Paladino\t938": [
+      {
+        "mod": "Terraria",
+        "name": "Paladino",
+        "id": 290
+      }
+    ],
+    "Terraria\tLuneta do Fuzil\t1300": [
+      {
+        "mod": "Terraria",
+        "name": "Atirador Esqueleto",
+        "id": 291
+      }
+    ],
+    "Terraria\tFuzil de Longo Alcance\t1254": [
+      {
+        "mod": "Terraria",
+        "name": "Atirador Esqueleto",
+        "id": 291
+      }
+    ],
+    "Terraria\tCapacete da SWAT\t1514": [
+      {
+        "mod": "Terraria",
+        "name": "Esqueleto Tático",
+        "id": 292
+      }
+    ],
+    "Terraria\tEspingarda Tática\t679": [
+      {
+        "mod": "Terraria",
+        "name": "Esqueleto Tático",
+        "id": 292
+      }
+    ],
+    "Terraria\tLança-foguetes\t759": [
+      {
+        "mod": "Terraria",
+        "name": "Comando Esqueleto",
+        "id": 293
+      }
+    ],
+    "Terraria\tMadeira Assustadora\t1729": [
+      {
+        "mod": "Terraria",
+        "name": "Árvore da Morte",
+        "id": 325
+      },
+      {
+        "mod": "Terraria",
+        "name": "Galho Vivo",
+        "id": 326
+      }
+    ],
+    "Terraria\tArco Gigante\t1906": [
+      {
+        "mod": "Terraria",
+        "name": "Geleia",
+        "id": 333
+      },
+      {
+        "mod": "Terraria",
+        "name": "Geleia",
+        "id": 334
+      },
+      {
+        "mod": "Terraria",
+        "name": "Geleia",
+        "id": 335
+      },
+      {
+        "mod": "Terraria",
+        "name": "Geleia",
+        "id": 336
+      }
+    ],
+    "Terraria\tChapéu de Elfo\t1943": [
+      {
+        "mod": "Terraria",
+        "name": "Elfo Zumbi",
+        "id": 338
+      },
+      {
+        "mod": "Terraria",
+        "name": "Elfo Zumbi",
+        "id": 339
+      },
+      {
+        "mod": "Terraria",
+        "name": "Elfo Zumbi",
+        "id": 340
+      }
+    ],
+    "Terraria\tCamiseta de Elfo\t1944": [
+      {
+        "mod": "Terraria",
+        "name": "Elfo Zumbi",
+        "id": 338
+      },
+      {
+        "mod": "Terraria",
+        "name": "Elfo Zumbi",
+        "id": 339
+      },
+      {
+        "mod": "Terraria",
+        "name": "Elfo Zumbi",
+        "id": 340
+      }
+    ],
+    "Terraria\tCalça de Elfo\t1945": [
+      {
+        "mod": "Terraria",
+        "name": "Elfo Zumbi",
+        "id": 338
+      },
+      {
+        "mod": "Terraria",
+        "name": "Elfo Zumbi",
+        "id": 339
+      },
+      {
+        "mod": "Terraria",
+        "name": "Elfo Zumbi",
+        "id": 340
+      }
+    ],
+    "Terraria\tAsas Festivas\t1871": [
+      {
+        "mod": "Terraria",
+        "name": "Everscream",
+        "id": 344
+      }
+    ],
+    "Terraria\tApito de Malcriação do Filhote de Grinch\t1959": [
+      {
+        "mod": "Terraria",
+        "name": "Rainha do Gelo",
+        "id": 345
+      }
+    ],
+    "Terraria\tSinos de Renas\t1914": [
+      {
+        "mod": "Terraria",
+        "name": "Rainha do Gelo",
+        "id": 345
+      }
+    ],
+    "Terraria\tTesoura Elegante\t3352": [
+      {
+        "mod": "Terraria",
+        "name": "Cabeleireira",
+        "id": 353
+      }
+    ],
+    "Terraria\tChapéu de Ambulante\t2222": [
+      {
+        "mod": "Terraria",
+        "name": "Caixeiro-viajante",
+        "id": 368
+      }
+    ],
+    "Terraria\tMáscara do Duque Peixe-dragão\t2588": [
+      {
+        "mod": "Terraria",
+        "name": "Duque Peixe-dragão",
+        "id": 370
+      }
+    ],
+    "Terraria\tAsas do Peixe-dragão\t2609": [
+      {
+        "mod": "Terraria",
+        "name": "Duque Peixe-dragão",
+        "id": 370
+      }
+    ],
+    "Terraria\tMangual-Dragão\t2611": [
+      {
+        "mod": "Terraria",
+        "name": "Duque Peixe-dragão",
+        "id": 370
+      }
+    ],
+    "Terraria\tTroféu do Duque Peixe-dragão\t2589": [
+      {
+        "mod": "Terraria",
+        "name": "Duque Peixe-dragão",
+        "id": 370
+      }
+    ],
+    "Luiafk\tManaEssence": [
+      {
+        "mod": "Terraria",
+        "name": "Duque Peixe-dragão",
+        "id": 370
+      }
+    ],
+    "Terraria\tTufão de Navalhas\t2622": [
+      {
+        "mod": "Terraria",
+        "name": "Duque Peixe-dragão",
+        "id": 370
+      }
+    ],
+    "Terraria\tTsunami\t2624": [
+      {
+        "mod": "Terraria",
+        "name": "Duque Peixe-dragão",
+        "id": 370
+      }
+    ],
+    "Terraria\tArma de Bolhas\t2623": [
+      {
+        "mod": "Terraria",
+        "name": "Duque Peixe-dragão",
+        "id": 370
+      }
+    ],
+    "Terraria\tCajado da Tempestade\t2621": [
+      {
+        "mod": "Terraria",
+        "name": "Duque Peixe-dragão",
+        "id": 370
+      }
+    ],
+    "Terraria\tPlaca Condutora de Marte\t2860": [
+      {
+        "mod": "Terraria",
+        "name": "Embaralhador de Cérebros",
+        "id": 381
+      },
+      {
+        "mod": "Terraria",
+        "name": "Atirador de Raios",
+        "id": 382
+      },
+      {
+        "mod": "Terraria",
+        "name": "Oficial de Marte",
+        "id": 383
+      },
+      {
+        "mod": "Terraria",
+        "name": "Soldado Cinza",
+        "id": 385
+      },
+      {
+        "mod": "Terraria",
+        "name": "Engenheiro de Marte",
+        "id": 386
+      },
+      {
+        "mod": "Terraria",
+        "name": "Gigaelétrico",
+        "id": 389
+      },
+      {
+        "mod": "Terraria",
+        "name": "Atirador no Scutlix",
+        "id": 390
+      },
+      {
+        "mod": "Terraria",
+        "name": "Andarilho de Marte",
+        "id": 520
+      }
+    ],
+    "Terraria\tMáscara da Roupa de Marte\t2803": [
+      {
+        "mod": "Terraria",
+        "name": "Embaralhador de Cérebros",
+        "id": 381
+      },
+      {
+        "mod": "Terraria",
+        "name": "Atirador de Raios",
+        "id": 382
+      },
+      {
+        "mod": "Terraria",
+        "name": "Soldado Cinza",
+        "id": 385
+      },
+      {
+        "mod": "Terraria",
+        "name": "Atirador no Scutlix",
+        "id": 390
+      }
+    ],
+    "Terraria\tCamisa da Roupa de Marte\t2804": [
+      {
+        "mod": "Terraria",
+        "name": "Embaralhador de Cérebros",
+        "id": 381
+      },
+      {
+        "mod": "Terraria",
+        "name": "Atirador de Raios",
+        "id": 382
+      },
+      {
+        "mod": "Terraria",
+        "name": "Soldado Cinza",
+        "id": 385
+      },
+      {
+        "mod": "Terraria",
+        "name": "Atirador no Scutlix",
+        "id": 390
+      }
+    ],
+    "Terraria\tCalças da Roupa de Marte\t2805": [
+      {
+        "mod": "Terraria",
+        "name": "Embaralhador de Cérebros",
+        "id": 381
+      },
+      {
+        "mod": "Terraria",
+        "name": "Atirador de Raios",
+        "id": 382
+      },
+      {
+        "mod": "Terraria",
+        "name": "Soldado Cinza",
+        "id": 385
+      },
+      {
+        "mod": "Terraria",
+        "name": "Atirador no Scutlix",
+        "id": 390
+      }
+    ],
+    "Terraria\tElmo do Uniforme de Marte\t2806": [
+      {
+        "mod": "Terraria",
+        "name": "Oficial de Marte",
+        "id": 383
+      },
+      {
+        "mod": "Terraria",
+        "name": "Engenheiro de Marte",
+        "id": 386
+      },
+      {
+        "mod": "Terraria",
+        "name": "Gigaelétrico",
+        "id": 389
+      }
+    ],
+    "Terraria\tTorso do Uniforme de Marte\t2807": [
+      {
+        "mod": "Terraria",
+        "name": "Oficial de Marte",
+        "id": 383
+      },
+      {
+        "mod": "Terraria",
+        "name": "Engenheiro de Marte",
+        "id": 386
+      },
+      {
+        "mod": "Terraria",
+        "name": "Gigaelétrico",
+        "id": 389
+      }
+    ],
+    "Terraria\tCalças do Uniforme de Marte\t2808": [
+      {
+        "mod": "Terraria",
+        "name": "Oficial de Marte",
+        "id": 383
+      },
+      {
+        "mod": "Terraria",
+        "name": "Engenheiro de Marte",
+        "id": 386
+      },
+      {
+        "mod": "Terraria",
+        "name": "Gigaelétrico",
+        "id": 389
+      }
+    ],
+    "Terraria\tEmbaralhador de Cérebros\t2771": [
+      {
+        "mod": "Terraria",
+        "name": "Atirador no Scutlix",
+        "id": 390
+      }
+    ],
+    "Terraria\tXenopopper\t2797": [
+      {
+        "mod": "Terraria",
+        "name": "Disco Voador de Marte",
+        "id": 395
+      }
+    ],
+    "Terraria\tTroféu do Disco Voador de Marte\t3358": [
+      {
+        "mod": "Terraria",
+        "name": "Disco Voador de Marte",
+        "id": 395
+      }
+    ],
+    "Terraria\tXeno Cajado\t2749": [
+      {
+        "mod": "Terraria",
+        "name": "Disco Voador de Marte",
+        "id": 395
+      }
+    ],
+    "Terraria\tMetralhadora Laser\t2795": [
+      {
+        "mod": "Terraria",
+        "name": "Disco Voador de Marte",
+        "id": 395
+      }
+    ],
+    "Terraria\tFuradeira Laser\t2798": [
+      {
+        "mod": "Terraria",
+        "name": "Disco Voador de Marte",
+        "id": 395
+      }
+    ],
+    "Terraria\tLança-Eletroesfera\t2796": [
+      {
+        "mod": "Terraria",
+        "name": "Disco Voador de Marte",
+        "id": 395
+      }
+    ],
+    "Terraria\tCanhão Detonador Carregado\t2882": [
+      {
+        "mod": "Terraria",
+        "name": "Disco Voador de Marte",
+        "id": 395
+      }
+    ],
+    "Terraria\tOndulador de Fluxo\t2880": [
+      {
+        "mod": "Terraria",
+        "name": "Disco Voador de Marte",
+        "id": 395
+      }
+    ],
+    "Terraria\tChave do Carro Cósmico\t2769": [
+      {
+        "mod": "Terraria",
+        "name": "Disco Voador de Marte",
+        "id": 395
+      }
+    ],
+    "Terraria\tGancho Antigravitacional\t2800": [
+      {
+        "mod": "Terraria",
+        "name": "Disco Voador de Marte",
+        "id": 395
+      }
+    ],
+    "Terraria\tMáscara do Senhor da Lua\t3373": [
+      {
+        "mod": "Terraria",
+        "name": "Núcleo do Senhor da Lua",
+        "id": 398
+      }
+    ],
+    "Terraria\tPistola do Portal\t3384": [
+      {
+        "mod": "Terraria",
+        "name": "Núcleo do Senhor da Lua",
+        "id": 398
+      }
+    ],
+    "Terraria\tLuminita\t3460": [
+      {
+        "mod": "Terraria",
+        "name": "Núcleo do Senhor da Lua",
+        "id": 398
+      }
+    ],
+    "Terraria\tEspada-Gato\t3063": [
+      {
+        "mod": "Terraria",
+        "name": "Núcleo do Senhor da Lua",
+        "id": 398
+      }
+    ],
+    "Terraria\tTroféu do Senhor da Lua\t3595": [
+      {
+        "mod": "Terraria",
+        "name": "Núcleo do Senhor da Lua",
+        "id": 398
+      }
+    ],
+    "Luiafk\tMagicEssence": [
+      {
+        "mod": "Terraria",
+        "name": "Núcleo do Senhor da Lua",
+        "id": 398
+      }
+    ],
+    "Terraria\tTerrariano\t3389": [
+      {
+        "mod": "Terraria",
+        "name": "Núcleo do Senhor da Lua",
+        "id": 398
+      }
+    ],
+    "Terraria\tIra das Estrelas\t3065": [
+      {
+        "mod": "Terraria",
+        "name": "Núcleo do Senhor da Lua",
+        "id": 398
+      }
+    ],
+    "Terraria\tM.G.E.\t1553": [
+      {
+        "mod": "Terraria",
+        "name": "Núcleo do Senhor da Lua",
+        "id": 398
+      }
+    ],
+    "Terraria\tComemoração\t3546": [
+      {
+        "mod": "Terraria",
+        "name": "Núcleo do Senhor da Lua",
+        "id": 398
+      }
+    ],
+    "Terraria\tÚltimo Prisma\t3541": [
+      {
+        "mod": "Terraria",
+        "name": "Núcleo do Senhor da Lua",
+        "id": 398
+      }
+    ],
+    "Terraria\tChamas da Lua\t3570": [
+      {
+        "mod": "Terraria",
+        "name": "Núcleo do Senhor da Lua",
+        "id": 398
+      }
+    ],
+    "Terraria\tCajado de Cristal Arco-íris\t3571": [
+      {
+        "mod": "Terraria",
+        "name": "Núcleo do Senhor da Lua",
+        "id": 398
+      }
+    ],
+    "Terraria\tCajado do Portal da Lua\t3569": [
+      {
+        "mod": "Terraria",
+        "name": "Núcleo do Senhor da Lua",
+        "id": 398
+      }
+    ],
+    "Terraria\tFragmento de Vórtice\t3456": [
+      {
+        "mod": "Terraria",
+        "name": "Coluna do Vórtice",
+        "id": 422
+      }
+    ],
+    "Terraria\tMáscara Cultista Antiga\t3372": [
+      {
+        "mod": "Terraria",
+        "name": "Cultista Lunático",
+        "id": 439
+      }
+    ],
+    "Terraria\tManipulador Antigo\t3549": [
+      {
+        "mod": "Terraria",
+        "name": "Cultista Lunático",
+        "id": 439
+      }
+    ],
+    "Terraria\tTroféu Antigo do Cultista\t3357": [
+      {
+        "mod": "Terraria",
+        "name": "Cultista Lunático",
+        "id": 439
+      }
+    ],
+    "Terraria\tBengala Elegante\t3351": [
+      {
+        "mod": "Terraria",
+        "name": "Cobrador de Impostos",
+        "id": 441
+      }
+    ],
+    "Terraria\tSerra-elétrica do Açougueiro\t3098": [
+      {
+        "mod": "Terraria",
+        "name": "Açougueiro",
+        "id": 460
+      }
+    ],
+    "Terraria\tConcha de Netuno\t497": [
+      {
+        "mod": "Terraria",
+        "name": "Criatura das Profundezas",
+        "id": 461
+      }
+    ],
+    "Terraria\tArma de Pregos\t3107": [
+      {
+        "mod": "Terraria",
+        "name": "Cabeça de Pregos",
+        "id": 463
+      }
+    ],
+    "Terraria\tPrego\t3108": [
+      {
+        "mod": "Terraria",
+        "name": "Cabeça de Pregos",
+        "id": 463
+      }
+    ],
+    "Terraria\tFaca do Psicopata\t3106": [
+      {
+        "mod": "Terraria",
+        "name": "Psicopata",
+        "id": 466
+      }
+    ],
+    "Terraria\tCajado da Esfera Mortal\t3249": [
+      {
+        "mod": "Terraria",
+        "name": "Esfera Mortal",
+        "id": 467
+      }
+    ],
+    "Terraria\tFrasco Tóxico\t3105": [
+      {
+        "mod": "Terraria",
+        "name": "Dr. Homem-Mosca",
+        "id": 468
+      }
+    ],
+    "Terraria\tCalça de Pedguin\t3759": [
+      {
+        "mod": "Terraria",
+        "name": "Pinguim Terrível",
+        "id": 470
+      }
+    ],
+    "Terraria\tArco da Chamas das Sombras\t3052": [
+      {
+        "mod": "Terraria",
+        "name": "Invocador Goblin",
+        "id": 471
+      }
+    ],
+    "Terraria\tBoneca das Chamas das Sombras\t3053": [
+      {
+        "mod": "Terraria",
+        "name": "Invocador Goblin",
+        "id": 471
+      }
+    ],
+    "Terraria\tFaca das Chamas das Sombras\t3054": [
+      {
+        "mod": "Terraria",
+        "name": "Invocador Goblin",
+        "id": 471
+      }
+    ],
+    "Terraria\tFuzil de Dardos\t3008": [
+      {
+        "mod": "Terraria",
+        "name": "Mímico Corrompido",
+        "id": 473
+      }
+    ],
+    "Terraria\tPoção de Mana Avançada\t500": [
+      {
+        "mod": "Terraria",
+        "name": "Mímico Corrompido",
+        "id": 473
+      },
+      {
+        "mod": "Terraria",
+        "name": "Mímico de Carmim",
+        "id": 474
+      },
+      {
+        "mod": "Terraria",
+        "name": "Mímico Consagrado",
+        "id": 475
+      },
+      {
+        "mod": "Terraria",
+        "name": "Mímico da Selva",
+        "id": 476
+      }
+    ],
+    "Terraria\tGuilhotinas com Corrente\t3012": [
+      {
+        "mod": "Terraria",
+        "name": "Mímico Corrompido",
+        "id": 473
+      }
+    ],
+    "Terraria\tAroma Podre\t3015": [
+      {
+        "mod": "Terraria",
+        "name": "Mímico Corrompido",
+        "id": 473
+      }
+    ],
+    "Terraria\tCajado do Agarrador\t3014": [
+      {
+        "mod": "Terraria",
+        "name": "Mímico Corrompido",
+        "id": 473
+      }
+    ],
+    "Terraria\tGancho de Verme\t3023": [
+      {
+        "mod": "Terraria",
+        "name": "Mímico Corrompido",
+        "id": 473
+      }
+    ],
+    "Terraria\tDrenagem da Vida\t3006": [
+      {
+        "mod": "Terraria",
+        "name": "Mímico de Carmim",
+        "id": 474
+      }
+    ],
+    "Terraria\tBaghnakhs Fétidas\t3013": [
+      {
+        "mod": "Terraria",
+        "name": "Mímico de Carmim",
+        "id": 474
+      }
+    ],
+    "Terraria\tPunhos de Carne\t3016": [
+      {
+        "mod": "Terraria",
+        "name": "Mímico de Carmim",
+        "id": 474
+      }
+    ],
+    "Terraria\tPistola de Dardos\t3007": [
+      {
+        "mod": "Terraria",
+        "name": "Mímico de Carmim",
+        "id": 474
+      }
+    ],
+    "Terraria\tGancho do Tendão\t3020": [
+      {
+        "mod": "Terraria",
+        "name": "Mímico de Carmim",
+        "id": 474
+      }
+    ],
+    "Terraria\tArco Tempestuoso de Dédalo\t3029": [
+      {
+        "mod": "Terraria",
+        "name": "Mímico Consagrado",
+        "id": 475
+      }
+    ],
+    "Terraria\tFaca Voadora\t3030": [
+      {
+        "mod": "Terraria",
+        "name": "Mímico Consagrado",
+        "id": 475
+      }
+    ],
+    "Terraria\tGancho Luminoso\t3022": [
+      {
+        "mod": "Terraria",
+        "name": "Mímico Consagrado",
+        "id": 475
+      }
+    ],
+    "Terraria\tFragmento de Cristal Infame\t3051": [
+      {
+        "mod": "Terraria",
+        "name": "Mímico Consagrado",
+        "id": 475
+      }
+    ],
+    "Terraria\tAsas de Mothron\t2770": [
+      {
+        "mod": "Terraria",
+        "name": "Mothron",
+        "id": 477
+      }
+    ],
+    "Terraria\tEspada do Herói Quebrada\t1570": [
+      {
+        "mod": "Terraria",
+        "name": "Mothron",
+        "id": 477
+      }
+    ],
+    "Terraria\tO Olho de Cthulhu\t3292": [
+      {
+        "mod": "Terraria",
+        "name": "Mothron",
+        "id": 477
+      }
+    ],
+    "Terraria\tEspelho de Bolso\t3781": [
+      {
+        "mod": "Terraria",
+        "name": "Medusa",
+        "id": 480
+      }
+    ],
+    "Terraria\tCabeça da Medusa\t3269": [
+      {
+        "mod": "Terraria",
+        "name": "Medusa",
+        "id": 480
+      }
+    ],
+    "Terraria\tLança\t3094": [
+      {
+        "mod": "Terraria",
+        "name": "Hoplite",
+        "id": 481
+      }
+    ],
+    "Terraria\tElmo do Gladiador\t3187": [
+      {
+        "mod": "Terraria",
+        "name": "Hoplite",
+        "id": 481
+      }
+    ],
+    "Terraria\tPeitoral do Gladiador\t3188": [
+      {
+        "mod": "Terraria",
+        "name": "Hoplite",
+        "id": 481
+      }
+    ],
+    "Terraria\tCalças do Gladiador\t3189": [
+      {
+        "mod": "Terraria",
+        "name": "Hoplite",
+        "id": 481
+      }
+    ],
+    "Terraria\tBloco de Granito\t3086": [
+      {
+        "mod": "Terraria",
+        "name": "Golem de Granito",
+        "id": 482
+      },
+      {
+        "mod": "Terraria",
+        "name": "Elemental de Granito",
+        "id": 483
+      }
+    ],
+    "Terraria\tElmo de Visão Noturna\t3109": [
+      {
+        "mod": "Terraria",
+        "name": "Golem de Granito",
+        "id": 482
+      },
+      {
+        "mod": "Terraria",
+        "name": "Elemental de Granito",
+        "id": 483
+      }
+    ],
+    "Terraria\tColar do Dente de Tubarão\t3212": [
+      {
+        "mod": "Terraria",
+        "name": "Zumbi Sangrento",
+        "id": 489
+      },
+      {
+        "mod": "Terraria",
+        "name": "Drippler",
+        "id": 490
+      }
+    ],
+    "Terraria\tComedouro de Dinheiro\t3213": [
+      {
+        "mod": "Terraria",
+        "name": "Zumbi Sangrento",
+        "id": 489
+      },
+      {
+        "mod": "Terraria",
+        "name": "Drippler",
+        "id": 490
+      }
+    ],
+    "Terraria\tTroféu do Holandês Voador\t3359": [
+      {
+        "mod": "Terraria",
+        "name": "Holandês Voador",
+        "id": 491
+      }
+    ],
+    "Terraria\tFragmento de Pó de Estrelas\t3459": [
+      {
+        "mod": "Terraria",
+        "name": "Coluna de Pó das Estrelas",
+        "id": 493
+      }
+    ],
+    "Terraria\tRally\t3285": [
+      {
+        "mod": "Terraria",
+        "name": "Caranguejo-Pai",
+        "id": 494
+      },
+      {
+        "mod": "Terraria",
+        "name": "Caranguejo-Pai",
+        "id": 495
+      },
+      {
+        "mod": "Terraria",
+        "name": "Shelly Gigante",
+        "id": 496
+      },
+      {
+        "mod": "Terraria",
+        "name": "Shelly Gigante",
+        "id": 497
+      },
+      {
+        "mod": "Terraria",
+        "name": "Salamandra",
+        "id": 498
+      },
+      {
+        "mod": "Terraria",
+        "name": "Salamandra",
+        "id": 499
+      },
+      {
+        "mod": "Terraria",
+        "name": "Salamandra",
+        "id": 500
+      },
+      {
+        "mod": "Terraria",
+        "name": "Salamandra",
+        "id": 501
+      },
+      {
+        "mod": "Terraria",
+        "name": "Salamandra",
+        "id": 502
+      },
+      {
+        "mod": "Terraria",
+        "name": "Salamandra",
+        "id": 503
+      },
+      {
+        "mod": "Terraria",
+        "name": "Salamandra",
+        "id": 504
+      },
+      {
+        "mod": "Terraria",
+        "name": "Salamandra",
+        "id": 505
+      },
+      {
+        "mod": "Terraria",
+        "name": "Salamandra",
+        "id": 506
+      }
+    ],
+    "Terraria\tFragmento de Nébula\t3457": [
+      {
+        "mod": "Terraria",
+        "name": "Coluna de Nébula",
+        "id": 507
+      }
+    ],
+    "Terraria\tLâmina da Mandíbula\t3772": [
+      {
+        "mod": "Terraria",
+        "name": "Formiga-leão Corredora",
+        "id": 508
+      }
+    ],
+    "Terraria\tTapete Mágico\t934": [
+      {
+        "mod": "Terraria",
+        "name": "Verme Maldito",
+        "id": 510
+      },
+      {
+        "mod": "Terraria",
+        "name": "Verme das Covas",
+        "id": 513
+      }
+    ],
+    "Terraria\tTempestade de Areia na Garrafa\t857": [
+      {
+        "mod": "Terraria",
+        "name": "Verme Maldito",
+        "id": 510
+      },
+      {
+        "mod": "Terraria",
+        "name": "Verme das Covas",
+        "id": 513
+      }
+    ],
+    "Terraria\tMáscara do Faraó\t848": [
+      {
+        "mod": "Terraria",
+        "name": "Verme Maldito",
+        "id": 510
+      },
+      {
+        "mod": "Terraria",
+        "name": "Verme das Covas",
+        "id": 513
+      }
+    ],
+    "Terraria\tRoupão do Faraó\t866": [
+      {
+        "mod": "Terraria",
+        "name": "Verme Maldito",
+        "id": 510
+      },
+      {
+        "mod": "Terraria",
+        "name": "Verme das Covas",
+        "id": 513
+      }
+    ],
+    "Terraria\tBandeira da Cobra\t790": [
+      {
+        "mod": "Terraria",
+        "name": "Verme Maldito",
+        "id": 510
+      },
+      {
+        "mod": "Terraria",
+        "name": "Verme das Covas",
+        "id": 513
+      }
+    ],
+    "Terraria\tBandeira de Ômega\t791": [
+      {
+        "mod": "Terraria",
+        "name": "Verme Maldito",
+        "id": 510
+      },
+      {
+        "mod": "Terraria",
+        "name": "Verme das Covas",
+        "id": 513
+      }
+    ],
+    "Terraria\tBandeira de Ank\t789": [
+      {
+        "mod": "Terraria",
+        "name": "Verme Maldito",
+        "id": 510
+      },
+      {
+        "mod": "Terraria",
+        "name": "Verme das Covas",
+        "id": 513
+      }
+    ],
+    "Terraria\tFragmento do Sol\t3458": [
+      {
+        "mod": "Terraria",
+        "name": "Coluna do Sol",
+        "id": 517
+      }
+    ],
+    "Terraria\tTecido Antigo\t3794": [
+      {
+        "mod": "Terraria",
+        "name": "Ghoul",
+        "id": 524
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ghoul Terrível",
+        "id": 525
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ghoul Marcado",
+        "id": 526
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ghoul Sonhador",
+        "id": 527
+      }
+    ],
+    "Terraria\tMáscara do Sol\t2802": [
+      {
+        "mod": "Terraria",
+        "name": "Cauda de Lâmia",
+        "id": 528
+      }
+    ],
+    "Terraria\tCauda de Lâmia\t3784": [
+      {
+        "mod": "Terraria",
+        "name": "Cauda de Lâmia",
+        "id": 528
+      },
+      {
+        "mod": "Terraria",
+        "name": "Cauda de Lâmia",
+        "id": 529
+      }
+    ],
+    "Terraria\tMáscara de Lâmia\t3786": [
+      {
+        "mod": "Terraria",
+        "name": "Cauda de Lâmia",
+        "id": 528
+      },
+      {
+        "mod": "Terraria",
+        "name": "Cauda de Lâmia",
+        "id": 529
+      }
+    ],
+    "Terraria\tVestes de Lâmia\t3785": [
+      {
+        "mod": "Terraria",
+        "name": "Cauda de Lâmia",
+        "id": 528
+      },
+      {
+        "mod": "Terraria",
+        "name": "Cauda de Lâmia",
+        "id": 529
+      }
+    ],
+    "Terraria\tMáscara da Lua\t2801": [
+      {
+        "mod": "Terraria",
+        "name": "Cauda de Lâmia",
+        "id": 529
+      }
+    ],
+    "Terraria\tFóssil Resistente\t3380": [
+      {
+        "mod": "Terraria",
+        "name": "Basilisco",
+        "id": 532
+      }
+    ],
+    "Terraria\tChifre Antigo\t3771": [
+      {
+        "mod": "Terraria",
+        "name": "Basilisco",
+        "id": 532
+      }
+    ],
+    "Terraria\tLâmpada do Espírito do Deserto\t3795": [
+      {
+        "mod": "Terraria",
+        "name": "Espírito do Deserto",
+        "id": 533
+      }
+    ],
+    "Terraria\tMaldição do Djinn\t3770": [
+      {
+        "mod": "Terraria",
+        "name": "Espírito do Deserto",
+        "id": 533
+      }
+    ],
+    "Terraria\tVéu de Casamento\t3478": [
+      {
+        "mod": "Terraria",
+        "name": "A Noiva",
+        "id": 536
+      }
+    ],
+    "Terraria\tVestido de Casamento\t3479": [
+      {
+        "mod": "Terraria",
+        "name": "A Noiva",
+        "id": 536
+      }
+    ],
+    "Terraria\tFragmento Proibido\t3783": [
+      {
+        "mod": "Terraria",
+        "name": "Elemental de Areia",
+        "id": 541
+      }
+    ],
+    "Terraria\tArremessador de Cerveja\t3821": [
+      {
+        "mod": "Terraria",
+        "name": "Taberneiro",
+        "id": 550
+      }
+    ],
+    "Terraria\tMaldição Aérea\t3859": [
+      {
+        "mod": "Terraria",
+        "name": "Betsy",
+        "id": 551
+      }
+    ],
+    "Terraria\tMáscara de Betsy\t3863": [
+      {
+        "mod": "Terraria",
+        "name": "Betsy",
+        "id": 551
+      }
+    ],
+    "Terraria\tAsas de Betsy\t3883": [
+      {
+        "mod": "Terraria",
+        "name": "Betsy",
+        "id": 551
+      }
+    ],
+    "Terraria\tTroféu de Betsy\t3866": [
+      {
+        "mod": "Terraria",
+        "name": "Betsy",
+        "id": 551
+      }
+    ],
+    "Terraria\tDragão Voador\t3827": [
+      {
+        "mod": "Terraria",
+        "name": "Betsy",
+        "id": 551
+      }
+    ],
+    "Terraria\tIra de Betsy\t3870": [
+      {
+        "mod": "Terraria",
+        "name": "Betsy",
+        "id": 551
+      }
+    ],
+    "Terraria\tFúria do Dragão Celeste\t3858": [
+      {
+        "mod": "Terraria",
+        "name": "Betsy",
+        "id": 551
+      }
+    ],
+    "Terraria\tTroféu do Mago Sombrio\t3867": [
+      {
+        "mod": "Terraria",
+        "name": "Mago Sombrio",
+        "id": 564
+      },
+      {
+        "mod": "Terraria",
+        "name": "Mago Sombrio",
+        "id": 565
+      }
+    ],
+    "Terraria\tTroféu do Ogro\t3868": [
+      {
+        "mod": "Terraria",
+        "name": "Ogro",
+        "id": 576
+      },
+      {
+        "mod": "Terraria",
+        "name": "Ogro",
+        "id": 577
+      }
+    ],
+    "PureSpirit\tPurityInABottle": [
+      {
+        "mod": "PureSpirit",
+        "name": "TheImpureSoul"
+      }
+    ],
+    "PureSpirit\tImpureSoulTrophy": [
+      {
+        "mod": "PureSpirit",
+        "name": "TheImpureSoul"
+      }
+    ],
+    "SpiritMod\tGlyph": [
+      {
+        "mod": "SpiritMod",
+        "name": "AcidCrawler"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Alien"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "AngryGremlin"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "AntlionAssassin"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "AntlionRider"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Automaton"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Beholder"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "BlizzardNimbus"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "BloodySlime"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "GlowToad"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "JabberwockyBodyEnd"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "JabberwockyBodyOne"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "JabberwockyBodyThree"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "JabberwockyBodyTwo"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "JabberwockyHead"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "JabberwockyTail"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "LunarSlime"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "MadHatter"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "MagicToadstool"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "MoonFly"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "MoonSpirit"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Omniscient"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Sparkle"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Werebunny"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "BoneHarpy"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "BoneHarpy1"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "AncientFlyer"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Atlas"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "AtlasArmLeft"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "AtlasArmRight"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "CobbledEye"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "CobbledEye2"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "CobbledEye3"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "BloodGazer"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Dusking"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Shadowflamer"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "FrostSaucer"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "IlluminantMaster"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "InfernonSkull"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "InfernonSkullMini"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "InfernoSkull"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "MoonGazer"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "CaptiveSpirit"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Overseer"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "ReachBoss"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "ReachBoss1"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Scarab"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Scarabeus"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Mirage"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "ShadowMirage"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "ShadowRotator"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "SpiritCore"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "SpiritMinionHostile"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "SpiritRotator"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "CogTrapperHead"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "SteamRaiderHead"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "BScourge"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "CaptiveMask"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "CavernCrawler"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "CElemental"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Chompasaur"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Chomper"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "CogSpider"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Cogworker"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "CoreBat"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Crimslimer"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "CrimsonBrutalist"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "CryoElemental"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Cursed"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "DeadArcher"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "DElemental"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "DiseasedBat"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "DiseasedSlime"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "DungeonCubeBlue"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "DungeonCubeGreen"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "DungeonCubePink"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "ElectricEel"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "FallenAngel"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "FelDemon"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "FierySpore"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "FieryTrident"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "FleshGolem"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "FleshHound"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "FloranElemental"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "ForestWraith"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Frost"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "GElemental"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "GladiatorSpirit"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "GraniteCore"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "GraniteMimic"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "GraniteSlime"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "GrassEnergy"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "GrassVine"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Gremlin"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "GroveCaster"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "HellEater"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Ichor"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "JeweledBat"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "JeweledSlime"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "LihzahrdCaster"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "LihzahrdStatue"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "LivingSnowball"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "LostMime"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "MarbleMimic"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "MarbleSlime"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "MartianScout"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Mecromancer"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Mineroid"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Mycoid"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "NecroWalker"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Nightmare"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Observer"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "OceanSlime"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "PinkJelly"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "PinkSlimer"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Reachman"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "ReachObserver"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "ReachShaman"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "ReachWorm1"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "ShadowMimic"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "ShadowPup"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Sharkon"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "ShootingStar"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Snail"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Snapper"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "AncientDemon"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "CrystalDrifter"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "FrostSoul"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "GhastlyBeing"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "HauntedBook"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Hedron"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "IceCore"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "NetherBane"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "SeerBat"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "SoulCrusher"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "SpiritGhoul"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "SpiritMimic"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "SpiritMummy"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "SpiritSkull"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "SpiritVulture"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "UnstableWisp"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "WanderingSoul"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Spitfly"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "SSlugger"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "SunElemental"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Terrovore"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "ThermalElemental"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Valkyrie"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Wheezer"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "WickedEnt"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Winterborn"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Woody"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Worker"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Wrath"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "SunFlower"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Clamper"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "DepthTrencher"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "GreenFinTrapper"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Kakamora1"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Kakamora2"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Kakamora3"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "KakamoraRider"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "MindFlayer"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "MurkTerror"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Rylheian"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "ShellBane"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "SulfurElemental"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Tentacle"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "TideCaller"
+      }
+    ],
+    "SpiritMod\tAcid": [
+      {
+        "mod": "SpiritMod",
+        "name": "AcidCrawler"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Observer"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Spitfly"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "DepthTrencher"
+      }
+    ],
+    "SpiritMod\tPrimordialMagic": [
+      {
+        "mod": "SpiritMod",
+        "name": "AcidCrawler"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Alien"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "AngryGremlin"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "AntlionAssassin"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "AntlionRider"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Automaton"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Beholder"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "BlizzardNimbus"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "BloodySlime"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "GlowToad"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "JabberwockyBodyEnd"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "JabberwockyBodyOne"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "JabberwockyBodyThree"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "JabberwockyBodyTwo"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "JabberwockyHead"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "JabberwockyTail"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "LunarSlime"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "MadHatter"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "MagicToadstool"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "MoonFly"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "MoonSpirit"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Omniscient"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Sparkle"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Werebunny"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "BoneHarpy"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "BoneHarpy1"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "AncientFlyer"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Atlas"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "AtlasArmLeft"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "AtlasArmRight"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "CobbledEye"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "CobbledEye2"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "CobbledEye3"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "BloodGazer"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Dusking"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "ShadowBall"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Shadowflamer"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "FrostSaucer"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "IlluminantMaster"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "InfernonSkull"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "InfernonSkullMini"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "InfernoSkull"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "MoonGazer"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "CaptiveSpirit"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Overseer"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "ReachBoss"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "ReachBoss1"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Scarab"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Scarabeus"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Mirage"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "ShadowMirage"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "ShadowRotator"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "SpiritCore"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "SpiritMinionHostile"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "SpiritRotator"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "CogTrapperHead"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "SteamRaiderHead"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "BScourge"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "BunnyP"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "CaptiveMask"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "CavernCrawler"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "CElemental"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Chompasaur"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Chomper"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "CogSpider"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Cogworker"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "CoreBat"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Crimslimer"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "CrimsonBrutalist"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "CryoElemental"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Cursed"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "CursedBall"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "DeadArcher"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "DElemental"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "DiseasedBat"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "DiseasedSlime"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "DungeonCubeBlue"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "DungeonCubeGreen"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "DungeonCubePink"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "ElectricEel"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "FallenAngel"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "FelDemon"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "FierySpore"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "FieryTrident"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "FleshGolem"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "FleshHound"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "FloranElemental"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "ForestWraith"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "ForgottenOne"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Frost"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "GElemental"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "GladiatorSpirit"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "GraniteCore"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "GraniteMimic"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "GraniteSlime"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "GrassBall"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "GrassEnergy"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "GrassVine"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Gremlin"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "GroveCaster"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "HellEater"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Ichor"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "JeweledBat"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "JeweledSlime"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "LihzahrdCaster"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "LihzahrdStatue"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "LivingSnowball"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "LostMime"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "MarbleMimic"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "MarbleSlime"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "MartianScout"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Mecromancer"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Mineroid"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Mycoid"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "NecroWalker"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Nightmare"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Observer"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "OceanSlime"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "PinkJelly"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "PinkSlimer"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Reachman"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "ReachObserver"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "ReachShaman"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "ReachWorm1"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "ReachWorm2"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "ReachWorm3"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "ShadowMimic"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "ShadowPup"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Sharkon"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "ShootingStar"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Snail"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Snapper"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "AncientDemon"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "CrystalDrifter"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "FrostSoul"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "GhastlyBeing"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "HauntedBook"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Hedron"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "IceCore"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "NetherBane"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "SeerBat"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "SoulCrusher"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "SoulOrb"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "SpiritGhoul"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "SpiritMimic"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "SpiritMummy"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "SpiritSkull"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "SpiritVulture"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "UnstableWisp"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "WanderingSoul"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Spitfly"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "SSlugger"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "SunElemental"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Terrovore"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "ThermalElemental"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Adventurer"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "LoneTrapper"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Lunatic"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Martian"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Rogue"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "RuneWizard"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Valkyrie"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Wheezer"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "WickedEnt"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Winterborn"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "WitherBall"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Woody"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Worker"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Wrath"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "SunFlower"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Clamper"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "DepthTrencher"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "GreenFinTrapper"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Kakamora1"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Kakamora2"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Kakamora3"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "KakamoraRider"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "MindFlayer"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "MurkTerror"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Rylheian"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "ShellBane"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "SulfurElemental"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Tentacle"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "TideCaller"
+      },
+      {
+        "mod": "ReducedGrinding",
+        "name": "ChestSalesman"
+      }
+    ],
+    "SpiritMod\tToxicExtract": [
+      {
+        "mod": "SpiritMod",
+        "name": "Alien"
+      }
+    ],
+    "SpiritMod\tGremlinTooth": [
+      {
+        "mod": "SpiritMod",
+        "name": "AngryGremlin"
+      }
+    ],
+    "SpiritMod\tAntlionClaws": [
+      {
+        "mod": "SpiritMod",
+        "name": "AntlionAssassin"
+      }
+    ],
+    "SpiritMod\tSunShard": [
+      {
+        "mod": "SpiritMod",
+        "name": "Automaton"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "LihzahrdCaster"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "LihzahrdStatue"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "SunElemental"
+      }
+    ],
+    "SpiritMod\tMarbleChunk": [
+      {
+        "mod": "SpiritMod",
+        "name": "Beholder"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Valkyrie"
+      }
+    ],
+    "SpiritMod\tFrigidWind": [
+      {
+        "mod": "SpiritMod",
+        "name": "BlizzardNimbus"
+      }
+    ],
+    "SpiritMod\tGloomgusStaff": [
+      {
+        "mod": "SpiritMod",
+        "name": "GlowToad"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "MagicToadstool"
+      }
+    ],
+    "SpiritMod\tMoonStone": [
+      {
+        "mod": "SpiritMod",
+        "name": "JabberwockyHead"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "LunarSlime"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "MoonFly"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "MoonSpirit"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Werebunny"
+      }
+    ],
+    "SpiritMod\tAstralBreath": [
+      {
+        "mod": "SpiritMod",
+        "name": "JabberwockyHead"
+      }
+    ],
+    "SpiritMod\tAstralFlame": [
+      {
+        "mod": "SpiritMod",
+        "name": "JabberwockyHead"
+      }
+    ],
+    "SpiritMod\tStopWatch": [
+      {
+        "mod": "SpiritMod",
+        "name": "JabberwockyHead"
+      }
+    ],
+    "SpiritMod\tMoonJelly": [
+      {
+        "mod": "SpiritMod",
+        "name": "LunarSlime"
+      }
+    ],
+    "SpiritMod\tMadHat": [
+      {
+        "mod": "SpiritMod",
+        "name": "MadHatter"
+      }
+    ],
+    "SpiritMod\tBlueEyeStaff": [
+      {
+        "mod": "SpiritMod",
+        "name": "Omniscient"
+      }
+    ],
+    "Terraria\tCenoura Albina\t2428": [
+      {
+        "mod": "SpiritMod",
+        "name": "Werebunny"
+      }
+    ],
+    "SpiritMod\tJewelCrown": [
+      {
+        "mod": "SpiritMod",
+        "name": "BoneHarpy"
+      }
+    ],
+    "SpiritMod\tFlyerBag": [
+      {
+        "mod": "SpiritMod",
+        "name": "AncientFlyer"
+      }
+    ],
+    "SpiritMod\tFolvBlade1": [
+      {
+        "mod": "SpiritMod",
+        "name": "AncientFlyer"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Scarabeus"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "SteamRaiderHead"
+      }
+    ],
+    "SpiritMod\tAtlasBag": [
+      {
+        "mod": "SpiritMod",
+        "name": "Atlas"
+      }
+    ],
+    "SpiritMod\tEnchantment": [
+      {
+        "mod": "SpiritMod",
+        "name": "Atlas"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "IlluminantMaster"
+      }
+    ],
+    "SpiritMod\tDuskingBag": [
+      {
+        "mod": "SpiritMod",
+        "name": "Dusking"
+      }
+    ],
+    "SpiritMod\tWhetstone": [
+      {
+        "mod": "SpiritMod",
+        "name": "Dusking"
+      }
+    ],
+    "SpiritMod\tBauble": [
+      {
+        "mod": "SpiritMod",
+        "name": "FrostSaucer"
+      }
+    ],
+    "SpiritMod\tBlizzardEdge": [
+      {
+        "mod": "SpiritMod",
+        "name": "FrostSaucer"
+      }
+    ],
+    "SpiritMod\tChillrend": [
+      {
+        "mod": "SpiritMod",
+        "name": "FrostSaucer"
+      }
+    ],
+    "SpiritMod\tShiverWind": [
+      {
+        "mod": "SpiritMod",
+        "name": "FrostSaucer"
+      }
+    ],
+    "SpiritMod\tIlluminantBag": [
+      {
+        "mod": "SpiritMod",
+        "name": "IlluminantMaster"
+      }
+    ],
+    "SpiritMod\tInfernonBag": [
+      {
+        "mod": "SpiritMod",
+        "name": "InfernoSkull"
+      }
+    ],
+    "SpiritMod\tVeinstone": [
+      {
+        "mod": "SpiritMod",
+        "name": "MoonGazer"
+      }
+    ],
+    "Terraria\tPoção de Super Cura\t3544": [
+      {
+        "mod": "SpiritMod",
+        "name": "Overseer"
+      }
+    ],
+    "SpiritMod\tOverseerBag": [
+      {
+        "mod": "SpiritMod",
+        "name": "Overseer"
+      }
+    ],
+    "SpiritMod\tHilt": [
+      {
+        "mod": "SpiritMod",
+        "name": "Overseer"
+      }
+    ],
+    "SpiritMod\tReachBossBag": [
+      {
+        "mod": "SpiritMod",
+        "name": "ReachBoss1"
+      }
+    ],
+    "SpiritMod\tBagOScarabs": [
+      {
+        "mod": "SpiritMod",
+        "name": "Scarabeus"
+      }
+    ],
+    "SpiritMod\tSpiritCoreBag": [
+      {
+        "mod": "SpiritMod",
+        "name": "SpiritCore"
+      }
+    ],
+    "SpiritMod\tSteamRaiderBag": [
+      {
+        "mod": "SpiritMod",
+        "name": "SteamRaiderHead"
+      }
+    ],
+    "SpiritMod\tTatteredScript": [
+      {
+        "mod": "SpiritMod",
+        "name": "CaptiveMask"
+      }
+    ],
+    "SpiritMod\tMimeMask": [
+      {
+        "mod": "SpiritMod",
+        "name": "CaptiveMask"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "LostMime"
+      }
+    ],
+    "SpiritMod\tCrawlerockStaff": [
+      {
+        "mod": "SpiritMod",
+        "name": "CavernCrawler"
+      }
+    ],
+    "SpiritMod\tCarapace": [
+      {
+        "mod": "SpiritMod",
+        "name": "CavernCrawler"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Snail"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Snapper"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Terrovore"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Wheezer"
+      }
+    ],
+    "SpiritMod\tFossilFlower": [
+      {
+        "mod": "SpiritMod",
+        "name": "Chompasaur"
+      }
+    ],
+    "SpiritMod\tStarEnergy": [
+      {
+        "mod": "SpiritMod",
+        "name": "CogSpider"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Cogworker"
+      }
+    ],
+    "SpiritMod\tTechChip": [
+      {
+        "mod": "SpiritMod",
+        "name": "CogSpider"
+      }
+    ],
+    "SpiritMod\tCogflower": [
+      {
+        "mod": "SpiritMod",
+        "name": "CogSpider"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Cogworker"
+      }
+    ],
+    "SpiritMod\tGraniteChunk": [
+      {
+        "mod": "SpiritMod",
+        "name": "CoreBat"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "GraniteCore"
+      }
+    ],
+    "SpiritMod\tTenderizer": [
+      {
+        "mod": "SpiritMod",
+        "name": "CrimsonBrutalist"
+      }
+    ],
+    "SpiritMod\tCryoliteOre": [
+      {
+        "mod": "SpiritMod",
+        "name": "CryoElemental"
+      }
+    ],
+    "SpiritMod\tBoquet": [
+      {
+        "mod": "SpiritMod",
+        "name": "Cursed"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "FierySpore"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Frost"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Ichor"
+      }
+    ],
+    "SpiritMod\tBloodFire": [
+      {
+        "mod": "SpiritMod",
+        "name": "DeadArcher"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "FleshGolem"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "FleshHound"
+      }
+    ],
+    "SpiritMod\tVitalityStone": [
+      {
+        "mod": "SpiritMod",
+        "name": "DeadArcher"
+      }
+    ],
+    "SpiritMod\tBismiteCrystal": [
+      {
+        "mod": "SpiritMod",
+        "name": "DiseasedBat"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "DiseasedSlime"
+      }
+    ],
+    "Terraria\tTijolo Azul\t134": [
+      {
+        "mod": "SpiritMod",
+        "name": "DungeonCubeBlue"
+      }
+    ],
+    "Terraria\tTijolo Verde\t137": [
+      {
+        "mod": "SpiritMod",
+        "name": "DungeonCubeGreen"
+      }
+    ],
+    "Terraria\tTijolo Cor-de-rosa\t139": [
+      {
+        "mod": "SpiritMod",
+        "name": "DungeonCubePink"
+      }
+    ],
+    "SpiritMod\tEelRod": [
+      {
+        "mod": "SpiritMod",
+        "name": "ElectricEel"
+      }
+    ],
+    "SpiritMod\tStarPiece": [
+      {
+        "mod": "SpiritMod",
+        "name": "FallenAngel"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "ShootingStar"
+      }
+    ],
+    "SpiritMod\tFallenAngel": [
+      {
+        "mod": "SpiritMod",
+        "name": "FallenAngel"
+      }
+    ],
+    "SpiritMod\tCursedFire": [
+      {
+        "mod": "SpiritMod",
+        "name": "FelDemon"
+      }
+    ],
+    "SpiritMod\tFelBinder": [
+      {
+        "mod": "SpiritMod",
+        "name": "FelDemon"
+      }
+    ],
+    "SpiritMod\tFieryPendant": [
+      {
+        "mod": "SpiritMod",
+        "name": "FieryTrident"
+      }
+    ],
+    "SpiritMod\tFieryTrident": [
+      {
+        "mod": "SpiritMod",
+        "name": "FieryTrident"
+      }
+    ],
+    "SpiritMod\tFleshRender": [
+      {
+        "mod": "SpiritMod",
+        "name": "FleshGolem"
+      }
+    ],
+    "SpiritMod\tFloranOre": [
+      {
+        "mod": "SpiritMod",
+        "name": "FloranElemental"
+      }
+    ],
+    "SpiritMod\tSacredVine": [
+      {
+        "mod": "SpiritMod",
+        "name": "ForestWraith"
+      }
+    ],
+    "SpiritMod\tAncientBark": [
+      {
+        "mod": "SpiritMod",
+        "name": "ForestWraith"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Reachman"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "ReachObserver"
+      }
+    ],
+    "SpiritMod\tOakHeart": [
+      {
+        "mod": "SpiritMod",
+        "name": "ForestWraith"
+      }
+    ],
+    "SpiritMod\tCarvedRock": [
+      {
+        "mod": "SpiritMod",
+        "name": "ForgottenOne"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "HellEater"
+      }
+    ],
+    "SpiritMod\tGeode": [
+      {
+        "mod": "SpiritMod",
+        "name": "GElemental"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "JeweledBat"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "JeweledSlime"
+      }
+    ],
+    "SpiritMod\tJeweledSlime": [
+      {
+        "mod": "SpiritMod",
+        "name": "GElemental"
+      }
+    ],
+    "SpiritMod\tLazureLongbow": [
+      {
+        "mod": "SpiritMod",
+        "name": "GraniteMimic"
+      }
+    ],
+    "SpiritMod\tGraniteShield": [
+      {
+        "mod": "SpiritMod",
+        "name": "GraniteMimic"
+      }
+    ],
+    "SpiritMod\tGraniteReflector": [
+      {
+        "mod": "SpiritMod",
+        "name": "GraniteMimic"
+      }
+    ],
+    "SpiritMod\tEnchantedLeaf": [
+      {
+        "mod": "SpiritMod",
+        "name": "GrassVine"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "GroveCaster"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "ReachObserver"
+      }
+    ],
+    "SpiritMod\tRootPod": [
+      {
+        "mod": "SpiritMod",
+        "name": "GrassVine"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Reachman"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "ReachObserver"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "ReachShaman"
+      }
+    ],
+    "SpiritMod\tHellEater": [
+      {
+        "mod": "SpiritMod",
+        "name": "HellEater"
+      }
+    ],
+    "SpiritMod\tLihzahrdCasterStaff": [
+      {
+        "mod": "SpiritMod",
+        "name": "LihzahrdCaster"
+      }
+    ],
+    "Terraria\tBola de Neve\t949": [
+      {
+        "mod": "SpiritMod",
+        "name": "LivingSnowball"
+      }
+    ],
+    "SpiritMod\tFrigidFragment": [
+      {
+        "mod": "SpiritMod",
+        "name": "LivingSnowball"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Winterborn"
+      }
+    ],
+    "SpiritMod\tTatteredShotbow": [
+      {
+        "mod": "SpiritMod",
+        "name": "MarbleMimic"
+      }
+    ],
+    "SpiritMod\tGoldenApple": [
+      {
+        "mod": "SpiritMod",
+        "name": "MarbleMimic"
+      }
+    ],
+    "SpiritMod\tZeusLightning": [
+      {
+        "mod": "SpiritMod",
+        "name": "MarbleMimic"
+      }
+    ],
+    "SpiritMod\tCircleScimitar": [
+      {
+        "mod": "SpiritMod",
+        "name": "MarbleMimic"
+      }
+    ],
+    "SpiritMod\tAtmos": [
+      {
+        "mod": "SpiritMod",
+        "name": "MartianScout"
+      }
+    ],
+    "SpiritMod\tTechDrive": [
+      {
+        "mod": "SpiritMod",
+        "name": "Mecromancer"
+      }
+    ],
+    "SpiritMod\tOrbiterStaff": [
+      {
+        "mod": "SpiritMod",
+        "name": "Mineroid"
+      }
+    ],
+    "SpiritMod\tBoneTotem": [
+      {
+        "mod": "SpiritMod",
+        "name": "NecroWalker"
+      }
+    ],
+    "SpiritMod\tNightmareFuel": [
+      {
+        "mod": "SpiritMod",
+        "name": "Nightmare"
+      }
+    ],
+    "SpiritMod\tTerrorBark4": [
+      {
+        "mod": "SpiritMod",
+        "name": "Nightmare"
+      }
+    ],
+    "SpiritMod\tSanctifiedStabber": [
+      {
+        "mod": "SpiritMod",
+        "name": "Reachman"
+      }
+    ],
+    "SpiritMod\tShamanBand": [
+      {
+        "mod": "SpiritMod",
+        "name": "ReachShaman"
+      }
+    ],
+    "SpiritMod\tShadowCollar": [
+      {
+        "mod": "SpiritMod",
+        "name": "ShadowPup"
+      }
+    ],
+    "SpiritMod\tSharkon": [
+      {
+        "mod": "SpiritMod",
+        "name": "Sharkon"
+      }
+    ],
+    "SpiritMod\tMagicConch": [
+      {
+        "mod": "SpiritMod",
+        "name": "Snapper"
+      }
+    ],
+    "SpiritMod\tSpiritCrystal": [
+      {
+        "mod": "SpiritMod",
+        "name": "AncientDemon"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "CrystalDrifter"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "IceCore"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "SeerBat"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "SpiritVulture"
+      }
+    ],
+    "SpiritMod\tSickleBlade": [
+      {
+        "mod": "SpiritMod",
+        "name": "AncientDemon"
+      }
+    ],
+    "SpiritMod\tFrostSoul": [
+      {
+        "mod": "SpiritMod",
+        "name": "CrystalDrifter"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "IceCore"
+      }
+    ],
+    "SpiritMod\tSoulShred": [
+      {
+        "mod": "SpiritMod",
+        "name": "GhastlyBeing"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "HauntedBook"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "IceCore"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "SeerBat"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "SoulCrusher"
+      }
+    ],
+    "SpiritMod\tRune": [
+      {
+        "mod": "SpiritMod",
+        "name": "HauntedBook"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "SpiritGhoul"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "SpiritMummy"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "WanderingSoul"
+      }
+    ],
+    "SpiritMod\tPossessedBook": [
+      {
+        "mod": "SpiritMod",
+        "name": "HauntedBook"
+      }
+    ],
+    "SpiritMod\tHedronStaff": [
+      {
+        "mod": "SpiritMod",
+        "name": "Hedron"
+      }
+    ],
+    "SpiritMod\tNetherCrystal": [
+      {
+        "mod": "SpiritMod",
+        "name": "NetherBane"
+      }
+    ],
+    "SpiritMod\tSpiritOre": [
+      {
+        "mod": "SpiritMod",
+        "name": "SeerBat"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "SoulCrusher"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "SpiritSkull"
+      }
+    ],
+    "SpiritMod\tSpiritFlameStaff": [
+      {
+        "mod": "SpiritMod",
+        "name": "SpiritMimic"
+      }
+    ],
+    "SpiritMod\tGravehunter": [
+      {
+        "mod": "SpiritMod",
+        "name": "SpiritMimic"
+      }
+    ],
+    "SpiritMod\tSpiritSword": [
+      {
+        "mod": "SpiritMod",
+        "name": "SpiritMimic"
+      }
+    ],
+    "SpiritMod\tStoneOfSpiritsPast": [
+      {
+        "mod": "SpiritMod",
+        "name": "SpiritMimic"
+      }
+    ],
+    "SpiritMod\tSoulWeaver": [
+      {
+        "mod": "SpiritMod",
+        "name": "SpiritVulture"
+      }
+    ],
+    "SpiritMod\tSlugger": [
+      {
+        "mod": "SpiritMod",
+        "name": "SSlugger"
+      }
+    ],
+    "SpiritMod\tLihzardShield": [
+      {
+        "mod": "SpiritMod",
+        "name": "SunElemental"
+      }
+    ],
+    "SpiritMod\tThermiteOre": [
+      {
+        "mod": "SpiritMod",
+        "name": "ThermalElemental"
+      }
+    ],
+    "SpiritMod\tWheezerScale": [
+      {
+        "mod": "SpiritMod",
+        "name": "Wheezer"
+      }
+    ],
+    "Terraria\tEsporos da Selva\t331": [
+      {
+        "mod": "SpiritMod",
+        "name": "WickedEnt"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Woody"
+      }
+    ],
+    "Terraria\tMogno\t620": [
+      {
+        "mod": "SpiritMod",
+        "name": "WickedEnt"
+      }
+    ],
+    "SpiritMod\tWintryCharmMage": [
+      {
+        "mod": "SpiritMod",
+        "name": "Winterborn"
+      }
+    ],
+    "SpiritMod\tFrostLotus": [
+      {
+        "mod": "SpiritMod",
+        "name": "Winterborn"
+      }
+    ],
+    "SpiritMod\tDissolver": [
+      {
+        "mod": "SpiritMod",
+        "name": "Worker"
+      }
+    ],
+    "SpiritMod\tPearlFragment": [
+      {
+        "mod": "SpiritMod",
+        "name": "Clamper"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "GreenFinTrapper"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "MindFlayer"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "MurkTerror"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "TideCaller"
+      }
+    ],
+    "SpiritMod\tBabyClamper": [
+      {
+        "mod": "SpiritMod",
+        "name": "Clamper"
+      }
+    ],
+    "SpiritMod\tTideStone": [
+      {
+        "mod": "SpiritMod",
+        "name": "Clamper"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "GreenFinTrapper"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "MindFlayer"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "MurkTerror"
+      }
+    ],
+    "SpiritMod\tDepthShard": [
+      {
+        "mod": "SpiritMod",
+        "name": "DepthTrencher"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Kakamora1"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Kakamora2"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "Kakamora3"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "ShellBane"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "SulfurElemental"
+      }
+    ],
+    "SpiritMod\tGaleJavelin": [
+      {
+        "mod": "SpiritMod",
+        "name": "GreenFinTrapper"
+      }
+    ],
+    "SpiritMod\tStrangeKelp": [
+      {
+        "mod": "SpiritMod",
+        "name": "GreenFinTrapper"
+      }
+    ],
+    "SpiritMod\tJellyStaff": [
+      {
+        "mod": "SpiritMod",
+        "name": "Kakamora1"
+      }
+    ],
+    "SpiritMod\tKakaBow": [
+      {
+        "mod": "SpiritMod",
+        "name": "Kakamora2"
+      }
+    ],
+    "SpiritMod\tPalmSword": [
+      {
+        "mod": "SpiritMod",
+        "name": "Kakamora3"
+      }
+    ],
+    "SpiritMod\tFlayerStaff": [
+      {
+        "mod": "SpiritMod",
+        "name": "MindFlayer"
+      }
+    ],
+    "SpiritMod\tDreadWater": [
+      {
+        "mod": "SpiritMod",
+        "name": "MurkTerror"
+      }
+    ],
+    "SpiritMod\tBlackTide": [
+      {
+        "mod": "SpiritMod",
+        "name": "MurkTerror"
+      },
+      {
+        "mod": "SpiritMod",
+        "name": "TideCaller"
+      }
+    ],
+    "SpiritMod\tCthulhuStaff2": [
+      {
+        "mod": "SpiritMod",
+        "name": "Rylheian"
+      }
+    ],
+    "SpiritMod\tCthulhuStaff1": [
+      {
+        "mod": "SpiritMod",
+        "name": "Rylheian"
+      }
+    ],
+    "SpiritMod\tClauncher": [
+      {
+        "mod": "SpiritMod",
+        "name": "ShellBane"
+      }
+    ],
+    "SpiritMod\tFierySoul": [
+      {
+        "mod": "SpiritMod",
+        "name": "SulfurElemental"
+      }
+    ],
+    "SpiritMod\tLavaStaff": [
+      {
+        "mod": "SpiritMod",
+        "name": "SulfurElemental"
+      }
+    ],
+    "SpiritMod\tLavaSpear": [
+      {
+        "mod": "SpiritMod",
+        "name": "SulfurElemental"
+      }
+    ]
+  }
+}

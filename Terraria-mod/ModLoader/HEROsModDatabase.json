@@ -1,0 +1,36 @@
+{
+  "players": [],
+  "groups": [
+    {
+      "ID": 0,
+      "name": "Default",
+      "permissions": [
+        "ModifyTerrain"
+      ]
+    }
+  ],
+  "worlds": [
+    {
+      "worldID": 463436485,
+      "name": "Spirit mod",
+      "BanDestructiveExplosives": false,
+      "TimePaused": true,
+      "TimePausedTime": 50.0,
+      "GraveStonesDisabled": false,
+      "NPCSpawnsDiabled": true,
+      "regions": [],
+      "waypoints": []
+    },
+    {
+      "worldID": 1419392545,
+      "name": "casa foda",
+      "BanDestructiveExplosives": false,
+      "TimePaused": false,
+      "TimePausedTime": 0.0,
+      "GraveStonesDisabled": false,
+      "NPCSpawnsDiabled": false,
+      "regions": [],
+      "waypoints": []
+    }
+  ]
+}
