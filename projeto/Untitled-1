@@ -1,0 +1,59 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "MakerC++",
+            "type": "shell",
+            "command": "cd && ./compiler.sh *.cpp c++ g++ ${fileDirname}",
+            "group": {
+                "kind": "build",
+                "isDefault": false
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "MakerC",
+            "type": "shell",
+            "command": "cd && ./compiler.sh *.c c gcc ${fileDirname}",
+            "group": {
+                "kind": "build",
+                "isDefault": false
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "MakerPython",
+            "type": "shell",
+            "command": "cd && ./compiler.sh *.py python python ${fileDirname}",
+            "group": {
+                "kind": "build",
+                "isDefault": false
+            },
+            "problemMatcher": []
+        },
+        {
+            "type": "shell",
+            "label": "cpp build active file",
+            "command": "/usr/bin/cpp",
+            "args": [
+                "-g",
+                "${file}",
+                "-o",
+                "${fileDirname}/${fileBasenameNoExtension}"
+            ],
+            "options": {
+                "cwd": "/usr/bin"
+            }
+        },
+        {
+            "label": "CMakerC",
+            "type": "shell",
+            "command": "gcc ${fileDirname}/*.c && ./a.out",
+            "group": {
+                "kind": "build",
+                "isDefault": false
+            },
+            "problemMatcher": []
+        }
+    ]
+}
